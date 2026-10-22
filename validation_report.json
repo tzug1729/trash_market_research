@@ -1,0 +1,30 @@
+{
+  "indoor": {
+    "products": 200,
+    "columns": 58,
+    "cells_compared": 11600,
+    "blank_cells_preserved": 4721,
+    "summary_formulas_verified": [
+      200,
+      55,
+      29,
+      10
+    ],
+    "missing_reason_records": 4721,
+    "xlsx_csv_equal": true
+  },
+  "outdoor": {
+    "products": 184,
+    "columns": 58,
+    "cells_compared": 10672,
+    "blank_cells_preserved": 4631,
+    "summary_formulas_verified": [
+      184,
+      4,
+      36,
+      20
+    ],
+    "missing_reason_records": 4631,
+    "xlsx_csv_equal": true
+  }
+}

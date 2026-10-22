@@ -1,0 +1,466 @@
+[
+  {
+    "field": "product_id",
+    "label_ja": "製品ID",
+    "dtype": "string",
+    "unit": "",
+    "definition": "本調査内のID。IN＝室内、OUT＝屋外。販売店の商品IDとは別。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "manufacturer",
+    "label_ja": "メーカー・ブランド",
+    "dtype": "string",
+    "unit": "",
+    "definition": "出典上のメーカーまたは販売ブランド。OEM関係を推定して同一メーカーにはしていない。未確認は欠損。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "product_name",
+    "label_ja": "商品名",
+    "dtype": "string",
+    "unit": "",
+    "definition": "該当項目の確認記録。未確認は欠損。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "model_number",
+    "label_ja": "代表品番",
+    "dtype": "string",
+    "unit": "",
+    "definition": "代表として採用した仕様の品番。先頭ゼロを保持する文字列。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "capacity_l",
+    "label_ja": "容器容量",
+    "dtype": "Float64",
+    "unit": "L",
+    "definition": "容器・内容器の掲載容量。複数内容器を合算した場合はcapacity_basisに明示。対応袋容量のみの製品・袋ホルダーは実容量を欠損にする。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "price_jpy_tax_incl",
+    "label_ja": "掲載税込価格",
+    "dtype": "Float64",
+    "unit": "JPY",
+    "definition": "選択仕様について取得できた公開の税込表示価格。送料除外。販売単位を必ず併読。決済価格や現在庫の保証ではない。税別定価を換算して埋めない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "opening_shape",
+    "label_ja": "開口部形状",
+    "dtype": "string",
+    "unit": "",
+    "definition": "開口部について直接確認できた形状のみ。本体形状から推定しない。角形は角丸等の細部まで確認した意味ではない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "opening_count",
+    "label_ja": "同一投入面の穴数",
+    "dtype": "Int64",
+    "unit": "",
+    "definition": "同一の投入面で確認できた穴数。反対側・別面を含む総数とは限らない。未確認は欠損。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "lid_type",
+    "label_ja": "フタの方式",
+    "dtype": "string",
+    "unit": "",
+    "definition": "掲載文から整理した方式。固定投入口は上部カバーに開口があるもの。方式未確認のありは機構を推定しない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "source_site",
+    "label_ja": "主な調査元",
+    "dtype": "string",
+    "unit": "",
+    "definition": "該当項目の確認記録。未確認は欠損。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "source_url",
+    "label_ja": "代表仕様の出典URL",
+    "dtype": "string",
+    "unit": "",
+    "definition": "この行の代表品番・容量等の主な出典。販売店の複数仕様ページの場合がある。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "checked_date",
+    "label_ja": "参照日",
+    "dtype": "string",
+    "unit": "",
+    "definition": "資料を参照した日（YYYY-MM-DD）。ページの掲載・更新日とは別。検索サービス経由の公開情報を含む。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "environment",
+    "label_ja": "ファイル区分",
+    "dtype": "string",
+    "unit": "",
+    "definition": "indoor / outdoor。屋内外兼用製品はoutdoor側に1回収録。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "usage_scope",
+    "label_ja": "用途の確認区分",
+    "dtype": "string",
+    "unit": "",
+    "definition": "indoor_reference＝室内事例（屋外適性未確認）、indoor_manufacturer＝メーカーの屋内区分、indoor_outdoor＝兼用、outdoor＝屋外根拠あり、outdoor_retail_category＝販売店の屋外カテゴリ。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "use_category",
+    "label_ja": "利用場面",
+    "dtype": "string",
+    "unit": "",
+    "definition": "household_office＝家庭・オフィス、public_commercial＝公共施設・業務、camping＝キャンプ。用途の比較用整理値。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "order_code",
+    "label_ja": "販売店注文コード",
+    "dtype": "string",
+    "unit": "",
+    "definition": "モノタロウ等の注文番号。先頭ゼロを保持する文字列。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "capacity_raw",
+    "label_ja": "容量の掲載原文",
+    "dtype": "string",
+    "unit": "",
+    "definition": "出典記載をそのまま保持した参照用の原文。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "capacity_basis",
+    "label_ja": "容量の根拠",
+    "dtype": "string",
+    "unit": "",
+    "definition": "published＝仕様欄、product_name＝商品名、calculated_sum_of_compartments＝掲載された各容器容量の合算。推定容積を含まない。 published_ui＝参照日の商品ページ画面で確認。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "compartment_count",
+    "label_ja": "確認できた分別数",
+    "dtype": "Int64",
+    "unit": "",
+    "definition": "明示された分別数（内容器または袋の装着枠数）。不明は欠損、単一だからと推定して1を入力しない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "bag_capacity_l",
+    "label_ja": "対応ゴミ袋容量",
+    "dtype": "Float64",
+    "unit": "L",
+    "definition": "対応袋の容量。容器容量とは別。複数対応・目安の場合は原文も確認。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "bag_capacity_raw",
+    "label_ja": "袋容量の掲載原文",
+    "dtype": "string",
+    "unit": "",
+    "definition": "出典記載をそのまま保持した参照用の原文。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "price_basis",
+    "label_ja": "価格の条件",
+    "dtype": "string",
+    "unit": "",
+    "definition": "該当項目の確認記録。未確認は欠損。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "sales_unit",
+    "label_ja": "販売単位",
+    "dtype": "string",
+    "unit": "",
+    "definition": "価格に対応する販売単位。セット価格を1個あたりに割り戻していない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "body_width_mm",
+    "label_ja": "本体幅",
+    "dtype": "Float64",
+    "unit": "mm",
+    "definition": "掲載された本体外寸。開口寸法ではない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "body_depth_mm",
+    "label_ja": "本体奥行",
+    "dtype": "Float64",
+    "unit": "mm",
+    "definition": "掲載された本体外寸。開口寸法ではない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "body_height_mm",
+    "label_ja": "本体高さ",
+    "dtype": "Float64",
+    "unit": "mm",
+    "definition": "掲載された本体外寸。開口寸法ではない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "body_diameter_mm",
+    "label_ja": "本体外径",
+    "dtype": "Float64",
+    "unit": "mm",
+    "definition": "本体外径。把手を含む幅とは別。本体径を投入口径には転記しない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "body_dimensions_raw",
+    "label_ja": "本体寸法の原文",
+    "dtype": "string",
+    "unit": "",
+    "definition": "本体寸法の掲載原文。幅・奥行・高さの順序が不明、範囲表示、矛盾値のとき数値列への割り当てを保留。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "material_raw",
+    "label_ja": "材質の掲載原文",
+    "dtype": "string",
+    "unit": "",
+    "definition": "材質の掲載原文。部位・仕様が併記される場合を含むため、単一素材コードとして集計しない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "body_shape",
+    "label_ja": "本体形状の整理値",
+    "dtype": "string",
+    "unit": "",
+    "definition": "出典の本体形状を整理した値。開口部形状を意味しない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "body_shape_raw",
+    "label_ja": "本体形状の掲載原文",
+    "dtype": "string",
+    "unit": "",
+    "definition": "出典記載をそのまま保持した参照用の原文。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "opening_width_mm",
+    "label_ja": "開口部幅",
+    "dtype": "Float64",
+    "unit": "mm",
+    "definition": "幅Wとして明記された開口寸法。側面の投入穴では原文の軸表記に従う。原文も併読。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "opening_depth_mm",
+    "label_ja": "開口部奥行",
+    "dtype": "Float64",
+    "unit": "mm",
+    "definition": "奥行Dとして明記された開口寸法。横×縦のみの寸法を無理に幅×奥行へ変換しない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "opening_diameter_mm",
+    "label_ja": "開口部直径",
+    "dtype": "Float64",
+    "unit": "mm",
+    "definition": "開口部の直径として明記された値。上枠内径を明記するフタなし製品を含む。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "opening_long_axis_mm",
+    "label_ja": "開口部の長辺・長径",
+    "dtype": "Float64",
+    "unit": "mm",
+    "definition": "軸の向きが特定できない2辺の大きい方。□表示の正方形は同じ値。mmと確認できた掲載値を整理。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "opening_short_axis_mm",
+    "label_ja": "開口部の短辺・短径",
+    "dtype": "Float64",
+    "unit": "mm",
+    "definition": "軸の向きが特定できない2辺の小さい方。長辺欄と併用。外寸由来の値を含まない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "opening_dimensions_raw",
+    "label_ja": "開口部寸法の原文",
+    "dtype": "string",
+    "unit": "",
+    "definition": "出典記載をそのまま保持した参照用の原文。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "lid_present",
+    "label_ja": "フタの有無",
+    "dtype": "Int64",
+    "unit": "",
+    "definition": "1＝フタまたは固定投入口の上部カバーあり、0＝明示されたフタなし、欠損＝未確認。0は実値。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "lid_type_raw",
+    "label_ja": "フタ方式の掲載原文",
+    "dtype": "string",
+    "unit": "",
+    "definition": "出典記載をそのまま保持した参照用の原文。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "opening_structure",
+    "label_ja": "開口部・投入構造の特徴",
+    "dtype": "string",
+    "unit": "",
+    "definition": "掲載文で確認できた構造・メーカー指定規格。投入性能が実証されたという意味ではない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "throwing_assessment",
+    "label_ja": "投擲への適性に関する考察",
+    "dtype": "string",
+    "unit": "",
+    "definition": "調査者が構造から記述した未検証の考察。性能値・成功率・メーカーの保証と区別。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "assessment_status",
+    "label_ja": "考察の検証状態",
+    "dtype": "string",
+    "unit": "",
+    "definition": "該当項目の確認記録。未確認は欠損。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "review_summary",
+    "label_ja": "実在するレビューの要約",
+    "dtype": "string",
+    "unit": "",
+    "definition": "出典で読めた実在する利用者投稿の要約。未確認の場合は欠損。宣伝文はレビューに入れない。投稿者の個別購入を独立検証した意味ではない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "review_url",
+    "label_ja": "レビューの参照URL",
+    "dtype": "string",
+    "unit": "",
+    "definition": "該当項目の確認記録。未確認は欠損。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "review_status",
+    "label_ja": "レビューの確認状態",
+    "dtype": "string",
+    "unit": "",
+    "definition": "該当項目の確認記録。未確認は欠損。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "usage_evidence",
+    "label_ja": "用途区分の根拠",
+    "dtype": "string",
+    "unit": "",
+    "definition": "屋外・兼用等の区分を支える出典記載。製品の耐候性能を独立試験した意味ではない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "verification_source_url",
+    "label_ja": "補足確認・訂正の出典URL",
+    "dtype": "string",
+    "unit": "",
+    "definition": "主出典と別に用途や寸法を確認・訂正したURL。メーカー以外の正式販売店も含む。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "representative_reason",
+    "label_ja": "代表仕様の選定理由",
+    "dtype": "string",
+    "unit": "",
+    "definition": "取得できた同シリーズ・同等比率の仕様から15〜20Lを優先。なければ17.5Lに最も近い確認容量を選択。市場全体の全容量を探索し尽くした意味ではない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "grouped_record_count",
+    "label_ja": "統合した観測記録数",
+    "dtype": "Int64",
+    "unit": "",
+    "definition": "統合した確認記録の件数。同じ品番の別販売店記録や色違いも含む。販売SKU数・実製品数ではない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "grouped_models",
+    "label_ja": "統合対象の品番等",
+    "dtype": "string",
+    "unit": "",
+    "definition": "統合した記録の品番・注文コード、未取得時は商品名。詳細はGroupsシート／grouping_audit.csv。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "dimension_ratio_wh",
+    "label_ja": "本体幅／高さ",
+    "dtype": "Float64",
+    "unit": "ratio",
+    "definition": "幅または外径を高さで割った値。比率判定用。把手等を含む出典寸法の限界あり。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "dimension_ratio_dh",
+    "label_ja": "本体奥行／高さ",
+    "dtype": "Float64",
+    "unit": "ratio",
+    "definition": "奥行または外径を高さで割った値。既知の基準仕様に対し両比率の差10%以内を同等の運用目安とした。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "notes",
+    "label_ja": "補足・不一致の記録",
+    "dtype": "string",
+    "unit": "",
+    "definition": "矛盾・範囲表示・袋容量との違い・参照時の表示等。欠損理由も確認。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "opening_shape_basis",
+    "label_ja": "開口形状の確認方法",
+    "dtype": "string",
+    "unit": "",
+    "definition": "source_text＝掲載文・明示寸法、product_photo_observation＝商品写真または図の目視観察、source_text_and_product_photo＝両者を照合。写真から寸法を推定していない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "opening_shape_detail",
+    "label_ja": "開口形状の観察詳細",
+    "dtype": "string",
+    "unit": "",
+    "definition": "商品写真等から読み取れた形状・穴の配置。角丸半径や傾斜角を実測した記録ではない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "additional_source_urls",
+    "label_ja": "同じグループの追加出典",
+    "dtype": "string",
+    "unit": "",
+    "definition": "同一グループの追加出典。セミコロン区切り。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "grouping_status",
+    "label_ja": "統合に用いた寸法の確認状態",
+    "dtype": "string",
+    "unit": "",
+    "definition": "confirmed_ratio＝グループの全記録に比率計算可能な寸法あり（単独記録含む）。series_grouping_dimensions_incomplete＝寸法不足を含む暫定統合。異シリーズの同一比率だけでは統合しない。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  },
+  {
+    "field": "opening_dimension_status",
+    "label_ja": "開口寸法の確認状態",
+    "dtype": "string",
+    "unit": "",
+    "definition": "confirmed＝開口寸法5列のいずれかあり、not_confirmed＝すべて未確認。",
+    "missing_rule": "空欄を欠損（pandas: pd.NA / NaN）として読む。理由はmissing_reasons.csv。"
+  }
+]

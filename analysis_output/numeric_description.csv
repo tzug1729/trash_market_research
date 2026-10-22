@@ -1,0 +1,5 @@
+﻿,capacity_l,capacity_l,capacity_l,capacity_l,capacity_l,capacity_l,capacity_l,capacity_l,price_jpy_tax_incl,price_jpy_tax_incl,price_jpy_tax_incl,price_jpy_tax_incl,price_jpy_tax_incl,price_jpy_tax_incl,price_jpy_tax_incl,price_jpy_tax_incl,body_height_mm,body_height_mm,body_height_mm,body_height_mm,body_height_mm,body_height_mm,body_height_mm,body_height_mm
+,count,mean,std,min,25%,50%,75%,max,count,mean,std,min,25%,50%,75%,max,count,mean,std,min,25%,50%,75%,max
+environment,,,,,,,,,,,,,,,,,,,,,,,,
+indoor,200.0,25.358,14.208824351340127,1.7,15.0,20.0,37.0,60.0,177.0,7131.954802259887,11363.779049331983,439.0,2198.0,3298.0,5830.0,60478.0,157.0,483.2611464968153,175.1081770593141,155.0,360.0,452.0,560.0,1200.0
+outdoor,159.0,71.51194968553459,48.56671304293632,12.0,45.0,65.0,90.0,400.0,104.0,31559.0,29271.48052119866,1099.0,5475.0,18469.0,58278.0,153780.0,162.0,781.895061728395,225.5487334382222,200.0,620.0,860.0,947.0,1243.0

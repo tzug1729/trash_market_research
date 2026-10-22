@@ -1,0 +1,772 @@
+﻿product_id,environment,observation_index,manufacturer,product_name,model_number,order_code,capacity_l,body_width_mm,body_depth_mm,body_height_mm,body_diameter_mm,source_url,grouping_status
+IN-001,indoor,1,,ゴミ箱 スイング式 容量約20L,XDL-20E-8,26078413,20.0,,,,,https://www.monotaro.com/g/01452715/,series_grouping_dimensions_incomplete
+IN-001,indoor,2,,ゴミ箱 スイング式 容量約20L,XDL-20E-8,73622736,20.0,,,,,https://www.monotaro.com/g/01452715/,series_grouping_dimensions_incomplete
+IN-002,indoor,1,,ゴミ箱 ペダル式 容量約15L,XDL-15A-1,24991383,15.0,270.0,255.0,345.0,,https://www.monotaro.com/g/01452718/,confirmed_ratio
+IN-003,indoor,1,EBM(江部松商事),ルクレール ダストボックス,621895,27871026,6.0,,,,,https://www.monotaro.com/g/04117517/,series_grouping_dimensions_incomplete
+IN-003,indoor,2,EBM(江部松商事),ルクレール ダストボックス,622069,27871035,13.0,,,,,https://www.monotaro.com/g/04117517/,series_grouping_dimensions_incomplete
+IN-003,indoor,3,EBM(江部松商事),ルクレール ダストボックス,621833,27871044,6.0,,,,,https://www.monotaro.com/g/04117517/,series_grouping_dimensions_incomplete
+IN-004,indoor,1,Lustro ware(ラストロウェア),ペダルペール(ステップオンカン),L-921GR,33242754,10.5,,,,,https://www.monotaro.com/g/00254785/,series_grouping_dimensions_incomplete
+IN-004,indoor,2,Lustro ware(ラストロウェア),ペダルペール(ステップオンカン),L-923GR,33242763,15.8,,,,,https://www.monotaro.com/g/00254785/,series_grouping_dimensions_incomplete
+IN-005,indoor,1,QUADS(クワッズ),全自動スマートゴミ箱 ELBIN(エルビン)15L,QS557WH,68768921,15.0,245.0,280.0,410.0,,https://www.monotaro.com/g/07994303/,confirmed_ratio
+IN-005,indoor,2,QUADS(クワッズ),全自動スマートゴミ箱 ELBIN(エルビン)15L,QS557BK,68768930,15.0,245.0,280.0,410.0,,https://www.monotaro.com/g/07994303/,confirmed_ratio
+IN-006,indoor,1,Richell(リッチェル),エフィ スクエアカン,40672,37139952,6.5,180.0,180.0,314.0,,https://www.monotaro.com/g/00344615/,confirmed_ratio
+IN-007,indoor,1,Richell(リッチェル),エフィ スクエアカン,40682,37139934,12.0,209.0,209.0,419.0,,https://www.monotaro.com/g/00344615/,confirmed_ratio
+IN-008,indoor,1,Richell(リッチェル),エフィ スリムペール角,40692,37139977,26.0,325.0,210.0,560.0,,https://www.monotaro.com/g/00344617/,confirmed_ratio
+IN-009,indoor,1,Richell(リッチェル),エフィ スリムペール角,40702,37139995,36.0,375.0,245.0,560.0,,https://www.monotaro.com/g/00344617/,confirmed_ratio
+IN-010,indoor,1,TAIGASHOJI(大河商事),センサー式自動開閉脚付きコンパクトダストボックス,mono100-gmbk,82528620,15.0,205.0,318.0,608.0,,https://www.monotaro.com/g/08531613/,confirmed_ratio
+IN-011,indoor,1,TRUSCO,くず入れ (丸型),TGYC635,39603374,11.8,264.0,252.0,315.0,,https://www.monotaro.com/g/00398308/,confirmed_ratio
+IN-011,indoor,2,TRUSCO,くず入れ (丸型),TGYC636,39603383,11.8,264.0,252.0,315.0,,https://www.monotaro.com/g/00398308/,confirmed_ratio
+IN-011,indoor,3,TRUSCO,くず入れ (丸型),TGYC633,39603392,8.1,232.0,222.0,275.0,,https://www.monotaro.com/g/00398308/,confirmed_ratio
+IN-011,indoor,4,TRUSCO,くず入れ (丸型),TGYC634,39603401,8.1,232.0,222.0,275.0,,https://www.monotaro.com/g/00398308/,confirmed_ratio
+IN-012,indoor,1,TRUSCO,くず入れ (角型),TGYC637,39603331,13.0,172.0,304.0,350.0,,https://www.monotaro.com/g/00398302/,confirmed_ratio
+IN-012,indoor,2,TRUSCO,くず入れ (角型),TGYC638,39603347,13.0,172.0,304.0,350.0,,https://www.monotaro.com/g/00398302/,confirmed_ratio
+IN-012,indoor,3,TRUSCO,くず入れ (角型),TGYC710,39603356,18.0,192.0,340.0,395.0,,https://www.monotaro.com/g/00398302/,confirmed_ratio
+IN-012,indoor,4,TRUSCO,くず入れ (角型),TGYC711,39603365,18.0,192.0,340.0,395.0,,https://www.monotaro.com/g/00398302/,confirmed_ratio
+IN-013,indoor,1,TRUSCO,エコダストボックス,TDB-22,37325845,21.5,324.0,229.0,520.0,,https://www.monotaro.com/g/00344739/,confirmed_ratio
+IN-013,indoor,2,TRUSCO,エコダストボックス,TDB-36,37325854,36.0,381.0,280.0,633.0,,https://www.monotaro.com/g/00344739/,confirmed_ratio
+IN-013,indoor,3,TRUSCO,エコダストボックス,TDB-47,37325863,47.5,419.0,310.0,690.0,,https://www.monotaro.com/g/00344739/,confirmed_ratio
+IN-014,indoor,1,TRUSCO,エコペダルペール,TEP-15,39603767,15.0,338.0,260.0,400.0,,https://www.monotaro.com/g/00398316/,confirmed_ratio
+IN-015,indoor,1,TRUSCO,段ボール製ゴミ箱 45L 本体,,63034354,45.0,322.0,280.0,563.0,,https://www.monotaro.com/p/6303/4354/,confirmed_ratio
+IN-016,indoor,1,ぶんぶく,中身の見えるゴミ箱,OSM-P-01,16463353,28.6,,,,,https://www.monotaro.com/g/01243068/,series_grouping_dimensions_incomplete
+IN-016,indoor,2,ぶんぶく,中身の見えるゴミ箱,RSM-P-01,16463362,22.0,,,,,https://www.monotaro.com/g/01243068/,series_grouping_dimensions_incomplete
+IN-016,indoor,3,ぶんぶく,中身の見えるゴミ箱,RSM-P-01B,16463378,22.0,,,,,https://www.monotaro.com/g/01243068/,series_grouping_dimensions_incomplete
+IN-017,indoor,1,アイリスオーヤマ,ペールストッカ― ごみ箱15L×2個付き,HWPS-300H,06529760,15.0,333.0,235.0,1200.0,,https://www.monotaro.com/g/07301296/,confirmed_ratio
+IN-018,indoor,1,アイリスオーヤマ,ペールストッカ―付収納ラック ごみ箱15L×2個付き,HWPS-635,06529717,15.0,635.0,297.0,1200.0,,https://www.monotaro.com/g/07301430/,confirmed_ratio
+IN-019,indoor,1,アスベル,R防臭エバン・ペダルペール,641039,60778454,9.5,276.0,291.0,330.0,,https://www.monotaro.com/g/02773746/,confirmed_ratio
+IN-020,indoor,1,アスベル,R防臭エバン・ペダルペール,641534,60778436,30.0,256.0,385.0,488.0,,https://www.monotaro.com/g/02773746/,confirmed_ratio
+IN-021,indoor,1,アスベル,ruclaire(ルクレール) ダストボックスCV 丸型,6211,41733634,6.7,,,318.0,,https://www.monotaro.com/p/4173/3634/,series_grouping_dimensions_incomplete
+IN-022,indoor,1,アスベル,エバン キッチンジョイント分別,,24895494,20.0,,,,,https://www.monotaro.com/g/06103665/,series_grouping_dimensions_incomplete
+IN-022,indoor,2,アスベル,エバン キッチンジョイント分別,,24895510,20.0,,,,,https://www.monotaro.com/g/06103665/,series_grouping_dimensions_incomplete
+IN-023,indoor,1,アスベル,エバン スイングペール,,24895388,10.0,,,,,https://www.monotaro.com/g/06103659/,series_grouping_dimensions_incomplete
+IN-024,indoor,1,アスベル,エバン プッシュペール,A6011,28993854,20.0,203.0,332.0,479.0,,https://www.monotaro.com/g/06153784/,confirmed_ratio
+IN-024,indoor,2,アスベル,エバン プッシュペール,A6012,28993870,30.0,232.0,376.0,529.0,,https://www.monotaro.com/g/06153784/,confirmed_ratio
+IN-024,indoor,3,アスベル,エバン プッシュペール,A6013,28993879,45.0,262.0,426.0,603.0,,https://www.monotaro.com/g/06153784/,confirmed_ratio
+IN-025,indoor,1,アスベル,エバン ワゴンペール,,24895485,60.0,,,,,https://www.monotaro.com/g/06103664/,series_grouping_dimensions_incomplete
+IN-026,indoor,1,アスベル,エバン 分別ペダル2段ペール,,24895598,38.0,,,,,https://www.monotaro.com/g/06103669/,series_grouping_dimensions_incomplete
+IN-027,indoor,1,アスベル,エバン 密閉プッシュペール,,24895424,20.0,,,,,https://www.monotaro.com/g/06103661/,series_grouping_dimensions_incomplete
+IN-027,indoor,2,アスベル,エバン 密閉プッシュペール,,24895440,30.0,,,,,https://www.monotaro.com/g/06103661/,series_grouping_dimensions_incomplete
+IN-027,indoor,3,アスベル,エバン 密閉プッシュペール,,24895449,45.0,,,,,https://www.monotaro.com/g/06103661/,series_grouping_dimensions_incomplete
+IN-027,indoor,4,アスベル,エバン 密閉プッシュペール,,24895458,20.0,,,,,https://www.monotaro.com/g/06103661/,series_grouping_dimensions_incomplete
+IN-028,indoor,1,アスベル,エバンMP 密閉 プッシュペール 45L ブラック,,82740835,45.0,266.0,450.0,601.0,,https://www.monotaro.com/g/08536303/,confirmed_ratio
+IN-029,indoor,1,アスベル,エバンペダルペール,A6007,28993836,12.0,283.0,302.0,335.0,,https://www.monotaro.com/g/06153783/,confirmed_ratio
+IN-030,indoor,1,アスベル,エバンペダルペール,A6000,28993766,14.0,272.0,255.0,355.0,,https://www.monotaro.com/g/06153783/,confirmed_ratio
+IN-031,indoor,1,アスベル,エバンペダルペール,A6001,28993775,20.0,233.0,345.0,444.0,,https://www.monotaro.com/g/06153783/,confirmed_ratio
+IN-031,indoor,2,アスベル,エバンペダルペール,A6002,28993784,30.0,256.0,385.0,488.0,,https://www.monotaro.com/g/06153783/,confirmed_ratio
+IN-031,indoor,3,アスベル,エバンペダルペール,A6003,28993800,45.0,283.0,428.0,580.0,,https://www.monotaro.com/g/06153783/,confirmed_ratio
+IN-032,indoor,1,アスベル,エバンペダルペール,A6004,28993809,25.0,371.0,292.0,464.0,,https://www.monotaro.com/g/06153783/,confirmed_ratio
+IN-033,indoor,1,アスベル,エバンペダルペール,A6005,28993818,35.0,399.0,306.0,546.0,,https://www.monotaro.com/g/06153783/,confirmed_ratio
+IN-034,indoor,1,アスベル,エバンペダルペール,A6006,28993827,45.0,431.0,284.0,584.0,,https://www.monotaro.com/g/06153783/,confirmed_ratio
+IN-035,indoor,1,アスベル,ダストボックス 棚下で使える両開きプッシュダストボックス3分別ワゴン20L×3,672972,75412228,60.0,534.0,340.0,520.0,,https://www.monotaro.com/g/08212615/,confirmed_ratio
+IN-035,indoor,2,アスベル,ダストボックス 棚下で使える両開きプッシュダストボックス3分別ワゴン20L×3,672996,75412237,60.0,534.0,340.0,520.0,,https://www.monotaro.com/g/08212615/,confirmed_ratio
+IN-036,indoor,1,アスベル,ルクレールCV,,,6.6,202.0,202.0,318.0,,https://www.monotaro.com/g/04649739/,confirmed_ratio
+IN-037,indoor,1,アスベル,ルクレールCVミニ,4974908621086,57633075,2.0,142.0,142.0,206.0,,https://www.monotaro.com/p/5763/3075/,confirmed_ratio
+IN-038,indoor,1,アスベル,ルクレールコレクションM,621932,89639463,10.0,225.0,225.0,340.0,,https://www.monotaro.com/g/03483563/,confirmed_ratio
+IN-038,indoor,2,アスベル,ルクレールコレクションM,621994,89639472,10.0,225.0,225.0,340.0,,https://www.monotaro.com/g/03483563/,confirmed_ratio
+IN-039,indoor,1,アスベル,分別くず入れ,,,15.0,294.0,214.0,338.0,,https://www.monotaro.com/g/01015675/,confirmed_ratio
+IN-040,indoor,1,アスベル,分別ワゴンスリム3段,,28994028,37.5,225.0,355.0,992.0,,https://www.monotaro.com/p/2899/4028/,confirmed_ratio
+IN-041,indoor,1,アスベル,分別ワゴンワイド3段,A6600,28994019,43.0,335.0,275.0,990.0,,https://www.monotaro.com/g/06153788/,confirmed_ratio
+IN-042,indoor,1,アスベル,密閉ペダルペール,-,21228754,45.0,284.0,462.0,587.0,,https://www.monotaro.com/p/2122/8754/,confirmed_ratio
+IN-043,indoor,1,アスベル,棚下で使える プッシュダストボックス 3分別ワゴン 20L×3,,77475295,20.0,178.0,340.0,452.0,,https://www.monotaro.com/g/08348473/,confirmed_ratio
+IN-044,indoor,1,アスベル,棚下で使える 両開き プッシュダストボックス 20L,,63314767,20.0,178.0,340.0,452.0,,https://www.monotaro.com/g/07890238/,confirmed_ratio
+IN-044,indoor,2,アスベル,棚下で使える 両開き プッシュダストボックス 20L,,63314776,20.0,178.0,340.0,452.0,,https://www.monotaro.com/g/07890238/,confirmed_ratio
+IN-045,indoor,1,エスコ,ダストボックス(ペダル開閉式),,,12.0,,,,,https://www.monotaro.com/g/06249830/,series_grouping_dimensions_incomplete
+IN-046,indoor,1,エスコ,ペダル開閉ダストボックス,EA995AA-196,48162478,15.0,,,,,https://www.monotaro.com/g/06249831/,series_grouping_dimensions_incomplete
+IN-047,indoor,1,サンコープラスチック,45 ブルー サンペール 45 ブルー,,50725677,45.0,,,530.0,430.0,https://www.monotaro.com/g/06272346/,confirmed_ratio
+IN-048,indoor,1,サンコープラスチック,45 ライトグレー ビスダボジョイント 45 ライトグレー,,50725720,45.0,350.0,412.0,622.0,,https://www.monotaro.com/g/06272345/,confirmed_ratio
+IN-049,indoor,1,サンコープラスチック,クリーンダスト(ゴミ箱) 丸,-,76461605,8.2,233.0,,266.0,,https://www.monotaro.com/p/7646/1605/,series_grouping_dimensions_incomplete
+IN-049,indoor,2,サンコープラスチック,クリーンダスト(ゴミ箱) 丸,222572,39398233,4.4,200.0,,204.0,,https://www.monotaro.com/p/3939/8233/,series_grouping_dimensions_incomplete
+IN-049,indoor,3,サンコープラスチック,クリーンダスト(ゴミ箱) 丸,222671,39398249,8.2,233.0,,266.0,,https://www.monotaro.com/p/3939/8249/,series_grouping_dimensions_incomplete
+IN-049,indoor,4,サンコープラスチック,クリーンダスト(ゴミ箱) 丸,222770,39398258,14.2,267.0,,349.0,,https://www.monotaro.com/p/3939/8258/,series_grouping_dimensions_incomplete
+IN-050,indoor,1,サンコープラスチック,ゴミ箱 スリムスイング,224279,39398267,26.5,232.0,368.0,555.0,,https://www.monotaro.com/g/04219615/,series_grouping_dimensions_incomplete
+IN-050,indoor,2,サンコープラスチック,ダストボックス スリムスイング26.5L ライトベージュ,,80238746,26.5,,,,,https://www.monotaro.com/g/08502402/,series_grouping_dimensions_incomplete
+IN-051,indoor,1,サンコープラスチック,ゴミ箱 スリムプッシュ,030269,39396429,26.5,232.0,368.0,440.0,,https://www.monotaro.com/g/04219515/,confirmed_ratio
+IN-051,indoor,2,サンコープラスチック,ゴミ箱 スリムプッシュ,030276,39396438,26.5,232.0,368.0,440.0,,https://www.monotaro.com/g/04219515/,confirmed_ratio
+IN-051,indoor,3,サンコープラスチック,ゴミ箱 スリムプッシュ,030283,39396447,26.5,232.0,368.0,440.0,,https://www.monotaro.com/g/04219515/,confirmed_ratio
+IN-052,indoor,1,サンコープラスチック,ゴミ箱 スリムプッシュ,032171,39396553,30.0,232.0,368.0,585.0,,https://www.monotaro.com/g/04219515/,confirmed_ratio
+IN-052,indoor,2,サンコープラスチック,ゴミ箱 スリムプッシュ,032188,39396569,30.0,232.0,368.0,585.0,,https://www.monotaro.com/g/04219515/,confirmed_ratio
+IN-053,indoor,1,サンコープラスチック,ゴミ箱 ルンバ 角型,222275,39398215,11.5,287.0,177.0,335.0,,https://www.monotaro.com/g/04219613/,confirmed_ratio
+IN-053,indoor,2,サンコープラスチック,ゴミ箱 ルンバ 角型,222299,39398224,11.5,287.0,177.0,335.0,,https://www.monotaro.com/g/04219613/,confirmed_ratio
+IN-054,indoor,1,サンコープラスチック,タフ角ペール,,86815917,40.0,,,,,https://www.monotaro.com/g/05935927/,series_grouping_dimensions_incomplete
+IN-055,indoor,1,サンコープラスチック,ダストボックススリムプッシュ20L ライトベージュ,,76461614,20.0,232.0,368.0,370.0,,https://www.monotaro.com/g/05280865/,series_grouping_dimensions_incomplete
+IN-055,indoor,2,サンコープラスチック,ゴミ箱 スリムプッシュ,032065,39396535,20.0,232.0,368.0,370.0,,https://www.monotaro.com/g/04219515/,series_grouping_dimensions_incomplete
+IN-055,indoor,3,サンコープラスチック,ゴミ箱 スリムプッシュ,032089,39396544,20.0,232.0,368.0,370.0,,https://www.monotaro.com/g/04219515/,series_grouping_dimensions_incomplete
+IN-055,indoor,4,サンコープラスチック,ダストボックス スリムプッシュ 30L,,80238229,30.0,,,,,https://www.monotaro.com/g/08502401/,series_grouping_dimensions_incomplete
+IN-055,indoor,5,サンコープラスチック,ダストボックス スリムプッシュ 30L,,80238308,30.0,,,,,https://www.monotaro.com/g/08502401/,series_grouping_dimensions_incomplete
+IN-055,indoor,6,サンコープラスチック,ダストボックス スリムプッシュ 30L,,80238561,30.0,,,,,https://www.monotaro.com/g/08502401/,series_grouping_dimensions_incomplete
+IN-055,indoor,7,サンコープラスチック,ダストボックス スリムプッシュ 26.5L,,80238351,26.5,,,,,https://www.monotaro.com/g/08502398/,series_grouping_dimensions_incomplete
+IN-055,indoor,8,サンコープラスチック,ダストボックス スリムプッシュ 26.5L,,80238597,26.5,,,,,https://www.monotaro.com/g/08502398/,series_grouping_dimensions_incomplete
+IN-055,indoor,9,サンコープラスチック,ダストボックス スリムプッシュ 26.5L,,80238755,26.5,,,,,https://www.monotaro.com/g/08502398/,series_grouping_dimensions_incomplete
+IN-055,indoor,10,サンコープラスチック,ダストボックス スリムプッシュ 20L,,80238290,20.0,,,,,https://www.monotaro.com/g/08502397/,series_grouping_dimensions_incomplete
+IN-055,indoor,11,サンコープラスチック,ダストボックス スリムプッシュ 20L,,80238676,20.0,,,,,https://www.monotaro.com/g/08502397/,series_grouping_dimensions_incomplete
+IN-055,indoor,12,サンコープラスチック,ダストボックス スリムプッシュ 20L,,80238737,20.0,,,,,https://www.monotaro.com/g/08502397/,series_grouping_dimensions_incomplete
+IN-056,indoor,1,サンコープラスチック,ダストボックススリムプッシュ30L ライトグレー,,76461623,30.0,368.0,232.0,585.0,,https://www.monotaro.com/g/05280866/,confirmed_ratio
+IN-057,indoor,1,サンコープラスチック,パッキンプッシュ ペール,033673,39396578,20.0,224.0,306.0,420.0,,https://www.monotaro.com/g/04219517/,series_grouping_dimensions_incomplete
+IN-057,indoor,2,サンコープラスチック,パッキンプッシュ 20L ライトベージュ,,80238658,20.0,,,,,https://www.monotaro.com/g/08502403/,series_grouping_dimensions_incomplete
+IN-058,indoor,1,サンコープラスチック,ペダルペール,225375,39398276,25.0,240.0,385.0,455.0,,https://www.monotaro.com/g/04219620/,confirmed_ratio
+IN-058,indoor,2,サンコープラスチック,ペダルペール,227775,39398319,21.5,242.0,385.0,437.0,,https://www.monotaro.com/g/04219620/,confirmed_ratio
+IN-059,indoor,1,サンコープラスチック,ペダルペール,227478,39398285,21.5,286.0,385.0,437.0,,https://www.monotaro.com/g/04219620/,confirmed_ratio
+IN-060,indoor,1,サンコープラスチック,ペダルペール,227577,39398294,26.8,418.0,278.0,476.0,,https://www.monotaro.com/g/04219620/,confirmed_ratio
+IN-060,indoor,2,サンコープラスチック,ペダルペール,227676,39398303,48.0,500.0,320.0,557.0,,https://www.monotaro.com/g/04219620/,confirmed_ratio
+IN-060,indoor,3,サンコープラスチック,ペダルペール,227973,39398337,48.0,455.0,320.0,557.0,,https://www.monotaro.com/g/04219620/,confirmed_ratio
+IN-061,indoor,1,サンコープラスチック,ペダルペール,227874,39398328,26.8,373.0,278.0,476.0,,https://www.monotaro.com/g/04219620/,confirmed_ratio
+IN-062,indoor,1,サンコープラスチック,ペダルペールPS-20 ライトベージュ,PS-20,80238265,21.5,,,,,https://www.monotaro.com/g/08502396/,series_grouping_dimensions_incomplete
+IN-063,indoor,1,サンコープラスチック,ペダルペールPW-25 ライトベージュ,PW-25,80238378,26.8,,,,,https://www.monotaro.com/g/08502394/,series_grouping_dimensions_incomplete
+IN-064,indoor,1,サンコープラスチック,ペダルペールS-20 ライトベージュ,S-20,80238701,21.5,,,,,https://www.monotaro.com/g/08502393/,series_grouping_dimensions_incomplete
+IN-065,indoor,1,サンコープラスチック,ペダルペールW-45 ライトベージュ,W-45,80238448,48.0,,,,,https://www.monotaro.com/g/08502392/,series_grouping_dimensions_incomplete
+IN-066,indoor,1,スマートバリュー,持ち手付きゴミ箱丸型,N153J-B,27530704,18.3,290.0,302.0,350.0,,https://www.monotaro.com/p/2753/0704/,confirmed_ratio
+IN-066,indoor,2,スマートバリュー,持ち手付きゴミ箱丸型,N151J-G,27530659,8.1,222.0,232.0,275.0,,https://www.monotaro.com/p/2753/0659/,confirmed_ratio
+IN-066,indoor,3,スマートバリュー,持ち手付きゴミ箱丸型,N151J-G5,27530774,8.1,222.0,232.0,275.0,,https://www.monotaro.com/p/2753/0774/,confirmed_ratio
+IN-066,indoor,4,スマートバリュー,持ち手付きゴミ箱丸型,N152J-G5,27530799,11.8,252.0,264.0,315.0,,https://www.monotaro.com/p/2753/0799/,confirmed_ratio
+IN-066,indoor,5,スマートバリュー,持ち手付きゴミ箱丸型,N152J-B5,27530808,11.8,252.0,264.0,315.0,,https://www.monotaro.com/p/2753/0808/,confirmed_ratio
+IN-066,indoor,6,スマートバリュー,持ち手付きゴミ箱丸型,N153J-G5,27530817,18.3,290.0,302.0,350.0,,https://www.monotaro.com/p/2753/0817/,confirmed_ratio
+IN-066,indoor,7,スマートバリュー,持ち手付きゴミ箱丸型,N153J-B5,27530826,18.3,290.0,302.0,350.0,,https://www.monotaro.com/p/2753/0826/,confirmed_ratio
+IN-067,indoor,1,スマートバリュー,持ち手付きゴミ箱角型,N155J-G,27530713,13.0,172.0,,350.0,,https://www.monotaro.com/g/04105766/,series_grouping_dimensions_incomplete
+IN-067,indoor,2,スマートバリュー,持ち手付きゴミ箱角型,N155J-B,27530729,13.0,172.0,,350.0,,https://www.monotaro.com/g/04105766/,series_grouping_dimensions_incomplete
+IN-067,indoor,3,スマートバリュー,持ち手付きゴミ箱角型,N156J-G,27530738,18.0,192.0,,395.0,,https://www.monotaro.com/g/04105766/,series_grouping_dimensions_incomplete
+IN-067,indoor,4,スマートバリュー,持ち手付きゴミ箱角型,N156J-B,27530747,18.0,192.0,,395.0,,https://www.monotaro.com/g/04105766/,series_grouping_dimensions_incomplete
+IN-067,indoor,5,スマートバリュー,持ち手付きゴミ箱角型,N154J-G,27530756,8.0,147.0,,300.0,,https://www.monotaro.com/g/04105766/,series_grouping_dimensions_incomplete
+IN-067,indoor,6,スマートバリュー,持ち手付きゴミ箱角型,N154J-B,27530765,8.0,147.0,,300.0,,https://www.monotaro.com/g/04105766/,series_grouping_dimensions_incomplete
+IN-067,indoor,7,スマートバリュー,持ち手付きゴミ箱角型,N155J-G5,27530835,13.0,172.0,,350.0,,https://www.monotaro.com/g/04105766/,series_grouping_dimensions_incomplete
+IN-067,indoor,8,スマートバリュー,持ち手付きゴミ箱角型,N155J-B5,27530844,13.0,172.0,,350.0,,https://www.monotaro.com/g/04105766/,series_grouping_dimensions_incomplete
+IN-067,indoor,9,スマートバリュー,持ち手付きゴミ箱角型,N156J-G5,27530853,18.0,192.0,,395.0,,https://www.monotaro.com/g/04105766/,series_grouping_dimensions_incomplete
+IN-067,indoor,10,スマートバリュー,持ち手付きゴミ箱角型,N156J-B5,27530869,18.0,192.0,,395.0,,https://www.monotaro.com/g/04105766/,series_grouping_dimensions_incomplete
+IN-067,indoor,11,スマートバリュー,持ち手付きゴミ箱角型,N154J-G5,27530878,8.0,147.0,,300.0,,https://www.monotaro.com/g/04105766/,series_grouping_dimensions_incomplete
+IN-067,indoor,12,スマートバリュー,持ち手付きゴミ箱角型,N154J-B5,27530887,8.0,147.0,,300.0,,https://www.monotaro.com/g/04105766/,series_grouping_dimensions_incomplete
+IN-068,indoor,1,セキスイ,エコポリペール角型,(#35)PEK35H本体,33242815,35.0,250.0,420.0,530.0,,https://www.monotaro.com/g/00254787/,confirmed_ratio
+IN-069,indoor,1,セキスイ,エコポリペール角型,(#45)PEK45H本体,33242833,45.0,340.0,445.0,570.0,,https://www.monotaro.com/g/00254787/,confirmed_ratio
+IN-069,indoor,2,セキスイ,エコポリペール角型,(#60)PEK60H本体,33242851,60.0,370.0,480.0,620.0,,https://www.monotaro.com/g/00254787/,confirmed_ratio
+IN-069,indoor,3,セキスイ,エコポリペール角型,(#70)PEK70H本体,33242876,70.0,390.0,490.0,640.0,,https://www.monotaro.com/g/00254787/,confirmed_ratio
+IN-069,indoor,4,セキスイ,エコポリペール角型,(#90)PEK90H本体,33242894,90.0,425.0,550.0,710.0,,https://www.monotaro.com/g/00254787/,confirmed_ratio
+IN-070,indoor,1,セキスイ,ポリダスター(本体),(#30)EPD3S(本体),33242632,30.0,380.0,280.0,450.0,,https://www.monotaro.com/p/3324/2632/,confirmed_ratio
+IN-070,indoor,2,セキスイ,ポリダスター(本体),(#40)EPD4S(本体),33242657,40.0,420.0,290.0,500.0,,https://www.monotaro.com/p/3324/2657/,confirmed_ratio
+IN-071,indoor,1,テラモト,エコプラコーナー グレー,DS-240-300-6,88129386,5.0,186.0,186.0,300.0,,https://www.monotaro.com/g/00861968/,confirmed_ratio
+IN-072,indoor,1,テラモト,エコプラ屑入れ,DS-215-000-6,37139916,9.5,238.0,238.0,278.0,,https://www.monotaro.com/g/00344614/,confirmed_ratio
+IN-073,indoor,1,テラモト,エコン ダストボックス#45 本体,DS-220-200-0,21828013,46.0,275.0,430.0,550.0,,https://www.monotaro.com/g/01404490/,confirmed_ratio
+IN-074,indoor,1,テラモト,エコン ダストボックス#45透明 本体,DS-220-600-0,21828248,45.0,275.0,430.0,550.0,,https://www.monotaro.com/g/01405420/,confirmed_ratio
+IN-075,indoor,1,テラモト,エコン ダストボックス#45黒 本体,DS-220-210-7,09518435,46.0,275.0,430.0,550.0,,https://www.monotaro.com/g/03709216/,confirmed_ratio
+IN-076,indoor,1,テラモト,エコン ペダル式ダストボックス 蓋両開きタイプ,DS-240-037-4,53903134,37.0,283.0,422.0,561.0,,https://www.monotaro.com/g/04586730/,confirmed_ratio
+IN-076,indoor,2,テラモト,エコン ペダル式ダストボックス 蓋両開きタイプ,DS-240-037-7,53903143,37.0,283.0,422.0,561.0,,https://www.monotaro.com/g/04586730/,confirmed_ratio
+IN-076,indoor,3,テラモト,エコン ペダル式ダストボックス 蓋両開きタイプ,DS-240-037-8,53903159,37.0,283.0,422.0,561.0,,https://www.monotaro.com/g/04586730/,confirmed_ratio
+IN-076,indoor,4,テラモト,エコン ペダル式ダストボックス 蓋両開きタイプ,DS-240-070-4,53903168,70.0,338.0,508.0,661.0,,https://www.monotaro.com/g/04586730/,confirmed_ratio
+IN-076,indoor,5,テラモト,エコン ペダル式ダストボックス 蓋両開きタイプ,DS-240-070-8,53903177,70.0,338.0,508.0,661.0,,https://www.monotaro.com/g/04586730/,confirmed_ratio
+IN-077,indoor,1,テラモト,エコ分別カラーペールW 本体,DS-194-435-0,75471744,31.0,267.0,392.0,470.0,,https://www.monotaro.com/g/05254666/,confirmed_ratio
+IN-077,indoor,2,テラモト,エコ分別カラーペールW 本体,DS-194-445-0,75471753,42.0,288.0,425.0,520.0,,https://www.monotaro.com/g/05254666/,confirmed_ratio
+IN-077,indoor,3,テラモト,エコ分別カラーペールW 本体,DS-194-465-0,75471769,60.0,333.0,489.0,560.0,,https://www.monotaro.com/g/05254666/,confirmed_ratio
+IN-077,indoor,4,テラモト,エコ分別カラーペールW 本体,DS-194-490-0,75471778,98.0,395.0,571.0,648.0,,https://www.monotaro.com/g/05254666/,confirmed_ratio
+IN-078,indoor,1,テラモト,エコ分別トラッシュペール 本体,DS-245-100-0,75472146,32.0,270.0,364.0,470.0,,https://www.monotaro.com/g/05254668/,confirmed_ratio
+IN-078,indoor,2,テラモト,エコ分別トラッシュペール 本体,DS-245-400-0,75472234,43.0,287.0,400.0,520.0,,https://www.monotaro.com/g/05254668/,confirmed_ratio
+IN-079,indoor,1,テラモト,シャン 120エコ,,,12.0,209.0,209.0,419.0,,https://www.monotaro.com/g/00861073/,confirmed_ratio
+IN-080,indoor,1,テラモト,トラッシュボックス(ステン)２分別,,,52.0,460.0,460.0,870.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/tera-trash_box_sten_2bunbetu.html,confirmed_ratio
+IN-081,indoor,1,テラモト,ニートSLF かん・びん用,DS-166-418-7,53901183,47.5,350.0,460.0,813.0,,https://www.monotaro.com/g/04586668/,confirmed_ratio
+IN-081,indoor,2,テラモト,ニートSLF かん・びん用,DS-166-418-8,53901199,47.5,350.0,460.0,813.0,,https://www.monotaro.com/g/04586668/,confirmed_ratio
+IN-081,indoor,3,テラモト,ニートSLF あきかん用,DS-166-416-7,53901147,47.5,350.0,460.0,813.0,,https://www.monotaro.com/g/04586666/,confirmed_ratio
+IN-081,indoor,4,テラモト,ニートSLF あきかん用,DS-166-416-8,53901156,47.5,350.0,460.0,813.0,,https://www.monotaro.com/g/04586666/,confirmed_ratio
+IN-082,indoor,1,テラモト,ニートSLF プラスチック用,DS-166-415-7,53901129,47.5,350.0,460.0,813.0,,https://www.monotaro.com/g/04586665/,confirmed_ratio
+IN-082,indoor,2,テラモト,ニートSLF プラスチック用,DS-166-415-8,53901138,47.5,350.0,460.0,813.0,,https://www.monotaro.com/g/04586665/,confirmed_ratio
+IN-082,indoor,3,テラモト,ニートSLF ペットボトル用,DS-166-414-7,53901104,47.5,350.0,460.0,813.0,,https://www.monotaro.com/g/04586664/,confirmed_ratio
+IN-082,indoor,4,テラモト,ニートSLF ペットボトル用,DS-166-414-8,53901113,47.5,350.0,460.0,813.0,,https://www.monotaro.com/g/04586664/,confirmed_ratio
+IN-082,indoor,5,テラモト,ニートSLF もえるゴミ用,DS-166-411-7,53901068,47.5,350.0,460.0,813.0,,https://www.monotaro.com/g/04586662/,confirmed_ratio
+IN-082,indoor,6,テラモト,ニートSLF もえるゴミ用,DS-166-411-8,53901077,47.5,350.0,460.0,813.0,,https://www.monotaro.com/g/04586662/,confirmed_ratio
+IN-083,indoor,1,テラモト,ペダルボックス,DS-238-503-0,37138726,3.0,,230.0,255.0,,https://www.monotaro.com/g/00344551/,series_grouping_dimensions_incomplete
+IN-083,indoor,2,テラモト,ペダルボックス,DS-238-505-0,37140415,5.0,,270.0,290.0,,https://www.monotaro.com/g/00344551/,series_grouping_dimensions_incomplete
+IN-083,indoor,3,テラモト,ペダルボックス,DS-238-512-0,37138744,12.0,,330.0,395.0,,https://www.monotaro.com/g/00344551/,series_grouping_dimensions_incomplete
+IN-083,indoor,4,テラモト,ペダルボックス,DS-238-520-0,37140397,20.0,,370.0,450.0,,https://www.monotaro.com/g/00344551/,series_grouping_dimensions_incomplete
+IN-083,indoor,5,テラモト,ペダルボックス,DS-238-530-0,88129465,30.0,,370.0,665.0,,https://www.monotaro.com/g/00344551/,series_grouping_dimensions_incomplete
+IN-084,indoor,1,テラモト,ワイヤーバスケット,DS-205-100-0,88115203,58.0,,,,,https://www.monotaro.com/g/00860902/,series_grouping_dimensions_incomplete
+IN-084,indoor,2,テラモト,ワイヤーバスケット,DS-205-130-0,88115212,83.0,,,,,https://www.monotaro.com/g/00860902/,series_grouping_dimensions_incomplete
+IN-085,indoor,1,テラモト,分別ターンボックスL,,,37.0,360.0,250.0,600.0,,https://www.monotaro.com/g/04956327/,confirmed_ratio
+IN-086,indoor,1,テラモト,透明エコダスター#45,DS-459-045-1,88117766,45.0,336.0,403.0,765.0,,https://www.monotaro.com/g/00965545/,confirmed_ratio
+IN-086,indoor,2,テラモト,透明エコダスター#45,DS-459-045-2,88117775,45.0,336.0,403.0,765.0,,https://www.monotaro.com/g/00965545/,confirmed_ratio
+IN-086,indoor,3,テラモト,透明エコダスター#45,DS-459-045-3,88117784,45.0,336.0,403.0,765.0,,https://www.monotaro.com/g/00965545/,confirmed_ratio
+IN-086,indoor,4,テラモト,透明エコダスター#45,DS-459-045-5,88117793,45.0,336.0,403.0,765.0,,https://www.monotaro.com/g/00965545/,confirmed_ratio
+IN-087,indoor,1,ニトリ（販売ブランド）,においを閉じ込める防臭ペダルペール(20L ホワイト),8451171,,20,,,,,https://www.nitori-net.jp/ec/product/8451171,series_grouping_dimensions_incomplete
+IN-088,indoor,1,ニトリ（販売ブランド）,ステップ式ゴミ箱(防臭タイプ 20L 9368 シルバー),5606455,,20,365.0,298.0,453.0,,https://www.nitori-net.jp/ec/product/5606455s/?srsltid=AU7gw4Vtf_rUHEYDmqTR5u7U9zd7cFTuf0D-zEdd_C1uDM48h-ekyrBz,confirmed_ratio
+IN-089,indoor,1,ニトリ（販売ブランド）,スリム ペダルペール(20L ホワイト),2111200030457,,20,200.0,355.0,450.0,,https://www.nitori-net.jp/ec/product/2111200030457/,confirmed_ratio
+IN-090,indoor,1,ニトリ（販売ブランド）,ソフトクローズステンレスペダルペール 20L〖島忠ホームズ商品〗,2118100145885,,20,295.0,350.0,425.0,,https://www.nitori-net.jp/ec/product/2118100145885/,confirmed_ratio
+IN-091,indoor,1,ニトリ（販売ブランド）,ペダルペールスリム 20L (ホワイト),2111200007794,,20,220.0,430.0,450.0,,https://www.nitori-net.jp/ec/product/2111200007794/,confirmed_ratio
+IN-092,indoor,1,ニトリ（販売ブランド）,棚下ペダルペール 20L(GY),5845061,,20,220.0,360.0,380.0,,https://www.nitori-net.jp/ec/product/5845061s/?srsltid=AU7gw4VMj-8zpp0DF-hIjkykNgF3u3nWuKSM9hdNBUAp0JnUl2Ugq0BS,confirmed_ratio
+IN-093,indoor,1,ミヅシマ工業,クリンボックスC13,,,45.0,,,,,https://www.monotaro.com/g/01037044/,series_grouping_dimensions_incomplete
+IN-094,indoor,1,ミヅシマ工業,クリンボックスE13,200-013,06788048,25.0,236.0,236.0,595.0,,https://www.monotaro.com/g/01037048/,confirmed_ratio
+IN-095,indoor,1,ミヅシマ工業,クリンボックスM101,200-014,06788084,28.0,,,,,https://www.monotaro.com/g/01037052/,series_grouping_dimensions_incomplete
+IN-096,indoor,1,ミヅシマ工業,クリンボックスM103,200-015,06788093,28.0,320.0,220.0,595.0,,https://www.monotaro.com/g/01037053/,confirmed_ratio
+IN-097,indoor,1,ミヅシマ工業,コーナーパックK,201-001,06788102,5.0,175.0,175.0,260.0,,https://www.monotaro.com/g/01037054/,confirmed_ratio
+IN-098,indoor,1,ミヅシマ工業,厨房ペールCK-45 グレー,2140241,06788933,45.0,,,,,https://www.monotaro.com/g/01037137/,series_grouping_dimensions_incomplete
+IN-099,indoor,1,ミヤグチ企販,ペダル式ステンレスダストボックス,DST-3L,72363394,3.0,,,,,https://www.monotaro.com/g/05157585/,series_grouping_dimensions_incomplete
+IN-099,indoor,2,ミヤグチ企販,ペダル式ステンレスダストボックス,DST-7L,72363403,7.0,,,,,https://www.monotaro.com/g/05157585/,series_grouping_dimensions_incomplete
+IN-099,indoor,3,ミヤグチ企販,ペダル式ステンレスダストボックス,DST-20L,72363419,20.0,,,,,https://www.monotaro.com/g/05157585/,series_grouping_dimensions_incomplete
+IN-099,indoor,4,ミヤグチ企販,ペダル式ステンレスダストボックス,DST-30L,72363428,30.0,,,,,https://www.monotaro.com/g/05157585/,series_grouping_dimensions_incomplete
+IN-099,indoor,5,ミヤグチ企販,ペダル式ステンレスダストボックス,DST-40L,72363437,40.0,,,,,https://www.monotaro.com/g/05157585/,series_grouping_dimensions_incomplete
+IN-100,indoor,1,モノタロウ,くず入れ 持ち手付角型,,50638483,18.0,,,,,https://www.monotaro.com/g/04476529/,series_grouping_dimensions_incomplete
+IN-100,indoor,2,モノタロウ,くず入れ 持ち手付角型,,50638499,18.0,,,,,https://www.monotaro.com/g/04476529/,series_grouping_dimensions_incomplete
+IN-100,indoor,3,モノタロウ,くず入れ 持ち手付角型,,50638508,13.0,,,,,https://www.monotaro.com/g/04476529/,series_grouping_dimensions_incomplete
+IN-100,indoor,4,モノタロウ,くず入れ 持ち手付角型,,50638517,13.0,,,,,https://www.monotaro.com/g/04476529/,series_grouping_dimensions_incomplete
+IN-101,indoor,1,モノタロウ,くず入れ 角型,GX-003B-N,26441057,15.0,,,,,https://www.monotaro.com/g/04063896/,series_grouping_dimensions_incomplete
+IN-101,indoor,2,モノタロウ,くず入れ 角型,GX-003C-N,26441066,8.0,,,,,https://www.monotaro.com/g/04063896/,series_grouping_dimensions_incomplete
+IN-102,indoor,1,モノタロウ,ステンレスペダル式ゴミ箱丸型,856J-5L,60630194,5.0,,,290.0,205.0,https://www.monotaro.com/g/02568970/,confirmed_ratio
+IN-102,indoor,2,モノタロウ,ステンレスペダル式ゴミ箱丸型,853J-20L,26279567,20.0,,,445.0,290.0,https://www.monotaro.com/g/02568970/,confirmed_ratio
+IN-103,indoor,1,モノタロウ,ダンボールゴミ箱,,12739127,45.0,,,,,https://www.monotaro.com/g/06008917/,series_grouping_dimensions_incomplete
+IN-103,indoor,2,モノタロウ,ダンボールゴミ箱,,12739136,70.0,,,,,https://www.monotaro.com/g/06008917/,series_grouping_dimensions_incomplete
+IN-103,indoor,3,モノタロウ,ダンボールゴミ箱,,12739145,90.0,,,,,https://www.monotaro.com/g/06008917/,series_grouping_dimensions_incomplete
+IN-104,indoor,1,ライクイット,フロントオープンダスト(浅),CFS-11,65573307,17.0,,,483.0,,https://www.monotaro.com/g/06729706/,series_grouping_dimensions_incomplete
+IN-104,indoor,2,ライクイット,フロントオープンダスト(浅),CFS-11,65573325,17.0,,,483.0,,https://www.monotaro.com/g/06729706/,series_grouping_dimensions_incomplete
+IN-104,indoor,3,ライクイット,フロントオープンダスト(浅),CFS-11,65573334,17.0,,,483.0,,https://www.monotaro.com/g/06729706/,series_grouping_dimensions_incomplete
+IN-104,indoor,4,ライクイット,フロントオープンダスト(浅),CFS-11,65573350,17.0,,,483.0,,https://www.monotaro.com/g/06729706/,series_grouping_dimensions_incomplete
+IN-105,indoor,1,ライクイット,フロントオープンダスト(深),CFS-14,65573219,25.0,,,615.0,,https://www.monotaro.com/g/06729707/,series_grouping_dimensions_incomplete
+IN-105,indoor,2,ライクイット,フロントオープンダスト(深),CFS-14,65573228,25.0,,,615.0,,https://www.monotaro.com/g/06729707/,series_grouping_dimensions_incomplete
+IN-105,indoor,3,ライクイット,フロントオープンダスト(深),CFS-14,65573237,25.0,,,615.0,,https://www.monotaro.com/g/06729707/,series_grouping_dimensions_incomplete
+IN-105,indoor,4,ライクイット,フロントオープンダスト(深),CFS-14,65573246,25.0,,,615.0,,https://www.monotaro.com/g/06729707/,series_grouping_dimensions_incomplete
+IN-106,indoor,1,ライクイット,プッシュダスト(深),CFS-12,65573176,25.0,,,465.0,,https://www.monotaro.com/g/06729705/,series_grouping_dimensions_incomplete
+IN-106,indoor,2,ライクイット,プッシュダスト(深),CFS-12,65573185,25.0,,,465.0,,https://www.monotaro.com/g/06729705/,series_grouping_dimensions_incomplete
+IN-106,indoor,3,ライクイット,プッシュダスト(深),CFS-12,65573194,25.0,,,465.0,,https://www.monotaro.com/g/06729705/,series_grouping_dimensions_incomplete
+IN-106,indoor,4,ライクイット,プッシュダスト(深),CFS-12,65573210,25.0,,,465.0,,https://www.monotaro.com/g/06729705/,series_grouping_dimensions_incomplete
+IN-107,indoor,1,ラバーメイド,ソフトウェイストバスケット,2955,00669165,12.9,289.0,210.0,308.0,,https://www.monotaro.com/g/00993239/,confirmed_ratio
+IN-107,indoor,2,ラバーメイド,ソフトウェイストバスケット,2956,00669174,26.6,368.0,267.0,381.0,,https://www.monotaro.com/g/00993239/,confirmed_ratio
+IN-107,indoor,3,ラバーメイド,ソフトウェイストバスケット,2956,00669183,26.6,368.0,267.0,381.0,,https://www.monotaro.com/g/00993239/,confirmed_ratio
+IN-107,indoor,4,ラバーメイド,ソフトウェイストバスケット,2956,00669192,26.6,368.0,267.0,381.0,,https://www.monotaro.com/g/00993239/,confirmed_ratio
+IN-107,indoor,5,ラバーメイド,ソフトウェイストバスケット,2956〖ワケあり〗,69924535,26.6,365.0,260.0,381.0,,https://www.monotaro.com/g/00993239/,confirmed_ratio
+IN-108,indoor,1,ラバーメイド,ソフトウェイストバスケット,2957,00669208,39.0,387.0,286.0,508.0,,https://www.monotaro.com/g/00993239/,confirmed_ratio
+IN-108,indoor,2,ラバーメイド,ソフトウェイストバスケット,2957,00669217,39.0,387.0,286.0,508.0,,https://www.monotaro.com/g/00993239/,confirmed_ratio
+IN-108,indoor,3,ラバーメイド,ソフトウェイストバスケット,2957,00669226,39.0,387.0,286.0,508.0,,https://www.monotaro.com/g/00993239/,confirmed_ratio
+IN-109,indoor,1,ラバーメイド,ブルート ユーティリティ コンテナ,RM2610UT,85310269,37.9,,,,,https://www.monotaro.com/g/05919147/,series_grouping_dimensions_incomplete
+IN-109,indoor,2,ラバーメイド,ブルート ユーティリティ コンテナ,RM2610UT,85310278,37.9,,,,,https://www.monotaro.com/g/05919147/,series_grouping_dimensions_incomplete
+IN-109,indoor,3,ラバーメイド,ブルート ユーティリティ コンテナ,RM2620UT,85310287,75.7,,,,,https://www.monotaro.com/g/05919147/,series_grouping_dimensions_incomplete
+IN-109,indoor,4,ラバーメイド,ブルート ユーティリティ コンテナ,RM264360UT,85310348,166.5,,,,,https://www.monotaro.com/g/05919147/,series_grouping_dimensions_incomplete
+IN-109,indoor,5,ラバーメイド,ブルート ユーティリティ コンテナ,RM264360UT,85310366,166.5,,,,,https://www.monotaro.com/g/05919147/,series_grouping_dimensions_incomplete
+IN-109,indoor,6,ラバーメイド,ブルート ユーティリティ コンテナ,RM2655UT,85310375,208.2,,,,,https://www.monotaro.com/g/05919147/,series_grouping_dimensions_incomplete
+IN-110,indoor,1,ラバーメイド,リサイクルボックス,57147365,60778332,53.0,,,,,https://www.monotaro.com/g/02773744/,series_grouping_dimensions_incomplete
+IN-110,indoor,2,ラバーメイド,リサイクルボックス,57187365,60778348,68.1,,,,,https://www.monotaro.com/g/02773744/,series_grouping_dimensions_incomplete
+IN-111,indoor,1,ラバーメイド,無償フタ付き ラウンドブルートコンテナ スリット付き,261006+260906,00178512,37.9,,,435.0,,https://www.monotaro.com/g/08552047/,series_grouping_dimensions_incomplete
+IN-112,indoor,1,ラバーメイド,耐火性バスケット,254107,60778375,13.2,,,,,https://www.monotaro.com/g/02773745/,series_grouping_dimensions_incomplete
+IN-112,indoor,2,ラバーメイド,耐火性バスケット,254307,60778384,26.5,,,,,https://www.monotaro.com/g/02773745/,series_grouping_dimensions_incomplete
+IN-112,indoor,3,ラバーメイド,耐火性バスケット,254402,60778418,37.9,,,,,https://www.monotaro.com/g/02773745/,series_grouping_dimensions_incomplete
+IN-112,indoor,4,ラバーメイド,耐火性バスケット ベージュ,254102,31269667,13.2,208.0,282.0,310.0,,https://www.monotaro.com/g/03485872/,series_grouping_dimensions_incomplete
+IN-113,indoor,1,リス,H&H どこでも使えるペダルダスト13L,,,13.0,,,,,https://www.monotaro.com/g/07746622/,series_grouping_dimensions_incomplete
+IN-114,indoor,1,リス,H&H棚下で使えるペダルダストボックス20L,GPRB045,22354528,20.0,220.0,360.0,380.0,,https://www.monotaro.com/p/2235/4528/,confirmed_ratio
+IN-114,indoor,2,リス,H&H棚下で使えるペダルダストボックス45L,GPRB049,22354564,45.0,270.0,425.0,480.0,,https://www.monotaro.com/g/06096317/,confirmed_ratio
+IN-114,indoor,3,リス,H&H棚下で使えるペダルダストボックス45L,GPRB050,22354580,45.0,270.0,425.0,480.0,,https://www.monotaro.com/g/06096317/,confirmed_ratio
+IN-115,indoor,1,リス,H&H棚下で使えるペダルダストボックス35L,GPRB047,22354546,35.0,220.0,425.0,480.0,,https://www.monotaro.com/p/2235/4546/,confirmed_ratio
+IN-115,indoor,2,リス,H&H棚下で使えるペダルダストボックス35L,GPRB048,22354555,35.0,220.0,425.0,480.0,,https://www.monotaro.com/p/2235/4555/,confirmed_ratio
+IN-116,indoor,1,リス,HOME&HOME 運べる防臭ペール,,57783453,10.0,318.0,180.0,323.0,,https://www.monotaro.com/g/04655172/,confirmed_ratio
+IN-117,indoor,1,リス,HOME&HOME 防臭 ペール,GBED008,45977068,21.0,186.0,388.0,457.0,,https://www.monotaro.com/g/04388811/,confirmed_ratio
+IN-118,indoor,1,リス,Nフレクション 角,,,8.0,147.0,274.0,300.0,,https://www.monotaro.com/g/03036143/,confirmed_ratio
+IN-119,indoor,1,リス,SOLOW ソロウ ゴミ箱 隙間や通路で使える ダストボックス スライドオープン 40L,GSLW042,80102666,40.0,211.0,400.0,607.0,,https://www.monotaro.com/g/08497962/,confirmed_ratio
+IN-119,indoor,2,リス,SOLOW ソロウ ゴミ箱 隙間や通路で使える ダストボックス スライドオープン 40L,GSLW043,80102675,40.0,211.0,400.0,607.0,,https://www.monotaro.com/g/08497962/,confirmed_ratio
+IN-120,indoor,1,リス,SOLOW ペダルオープン スリム,GSLW007,51804036,13.0,135.0,360.0,380.0,,https://www.monotaro.com/g/06296068/,confirmed_ratio
+IN-120,indoor,2,リス,SOLOW ペダルオープン スリム,GSLW008,51804045,13.0,135.0,360.0,380.0,,https://www.monotaro.com/g/06296068/,confirmed_ratio
+IN-121,indoor,1,リス,SOLOW ペダルオープンツイン,,74091484,35.0,220.0,425.0,480.0,,https://www.monotaro.com/g/05239718/,confirmed_ratio
+IN-121,indoor,2,リス,SOLOW ペダルオープンツイン,,74091493,35.0,220.0,425.0,480.0,,https://www.monotaro.com/g/05239718/,confirmed_ratio
+IN-122,indoor,1,リス,SOLOW ペダルオープンツイン,,74091509,45.0,270.0,425.0,480.0,,https://www.monotaro.com/g/05239718/,confirmed_ratio
+IN-122,indoor,2,リス,SOLOW ペダルオープンツイン,,74091518,45.0,270.0,425.0,480.0,,https://www.monotaro.com/g/05239718/,confirmed_ratio
+IN-123,indoor,1,リス,SOLOW ペダルオープンワイド,,,45.0,,,,,https://www.monotaro.com/g/06163180/,series_grouping_dimensions_incomplete
+IN-124,indoor,1,リス,SOLOW 袋の交換が楽なダストボックス,GSLW033,62888887,40.0,400.0,211.0,604.0,,https://www.monotaro.com/g/07889031/,confirmed_ratio
+IN-124,indoor,2,リス,SOLOW 袋の交換が楽なダストボックス,GSLW034,62888896,40.0,400.0,211.0,604.0,,https://www.monotaro.com/g/07889031/,confirmed_ratio
+IN-125,indoor,1,リス,くず入れ角18L,GGYC814,75966278,18.0,192.0,340.0,395.0,,https://www.monotaro.com/g/08221464/,confirmed_ratio
+IN-126,indoor,1,リス,ゴミ箱 HOME&HOME 縦型分類ワゴンペール 45S,,31937256,45.0,,,,,https://www.monotaro.com/g/04168635/,series_grouping_dimensions_incomplete
+IN-127,indoor,1,リス,サスティメイド 屑入れ 角 18L,,,18.0,192.0,349.0,395.0,,https://www.monotaro.com/g/08509171/,confirmed_ratio
+IN-128,indoor,1,リス,スムーススタンドダストボックス,GBBH025,75454219,57.0,340.0,500.0,970.0,,https://www.monotaro.com/g/08213522/,confirmed_ratio
+IN-129,indoor,1,リス,ダンボールゴミ箱(2枚組),GGYC725,24157078,45.5,320.0,270.0,585.0,,https://www.monotaro.com/g/01473454/,confirmed_ratio
+IN-130,indoor,1,リス,フレクション 丸,,73373807,12.0,,,,,https://www.monotaro.com/g/03036123/,series_grouping_dimensions_incomplete
+IN-130,indoor,2,リス,フレクション 丸,,73373825,18.0,,,,,https://www.monotaro.com/g/03036123/,series_grouping_dimensions_incomplete
+IN-131,indoor,1,リス,ベルク 丸型ペール 本体,35N,00406692,35.0,,,,,https://www.monotaro.com/p/0040/6692/,series_grouping_dimensions_incomplete
+IN-132,indoor,1,リス,ベルク 丸型ポリペール 本体,-,27387579,90.0,,,,,https://www.monotaro.com/p/2738/7579/,series_grouping_dimensions_incomplete
+IN-132,indoor,2,リス,ベルク 丸型ポリペール 本体,-,27387588,137.0,,,,,https://www.monotaro.com/p/2738/7588/,series_grouping_dimensions_incomplete
+IN-132,indoor,3,リス,ベルク 丸型ポリペール 本体,-,27387624,60.0,,,,,https://www.monotaro.com/p/2738/7624/,series_grouping_dimensions_incomplete
+IN-132,indoor,4,リス,ベルク 丸型ポリペール 本体,-,27387649,90.0,,,,,https://www.monotaro.com/p/2738/7649/,series_grouping_dimensions_incomplete
+IN-132,indoor,5,リス,ベルク 丸型ポリペール 本体,-,27387658,137.0,,,,,https://www.monotaro.com/p/2738/7658/,series_grouping_dimensions_incomplete
+IN-133,indoor,1,リス,リス ホーム&ホーム スイングペール スリムタイプ,5ND,00406936,5.2,,,,,https://www.monotaro.com/g/00979056/,series_grouping_dimensions_incomplete
+IN-133,indoor,2,リス,リス ホーム&ホーム スイングペール スリムタイプ,10ND,00406945,10.8,,,,,https://www.monotaro.com/g/00979056/,series_grouping_dimensions_incomplete
+IN-133,indoor,3,リス,リス ホーム&ホーム スイングペール スリムタイプ,15ND,00406954,16.5,,,,,https://www.monotaro.com/g/00979056/,series_grouping_dimensions_incomplete
+IN-133,indoor,4,リス,リス ホーム&ホーム スイングペール スリムタイプ,25ND,00406963,25.0,,,,,https://www.monotaro.com/g/00979056/,series_grouping_dimensions_incomplete
+IN-134,indoor,1,リス,通路で使えるペダルダスト,,,45.0,475.0,225.0,545.0,,https://www.monotaro.com/g/07742933/,confirmed_ratio
+IN-135,indoor,1,伊勢藤,壁掛けダストボックス メルナ,I-525,74526813,9.0,284.0,163.0,320.0,,https://www.monotaro.com/p/7452/6813/,confirmed_ratio
+IN-135,indoor,2,伊勢藤,壁掛けダストボックス メルナ,I-525,74526847,9.0,284.0,163.0,320.0,,https://www.monotaro.com/p/7452/6847/,confirmed_ratio
+IN-136,indoor,1,吉川国工業所,システムダスト本体 浅17L YT-03,YT-03,83124740,17.0,,,,,https://www.monotaro.com/g/08544064/,series_grouping_dimensions_incomplete
+IN-136,indoor,2,吉川国工業所,システムダスト本体 浅17L YT-03,YT-03,83124828,17.0,,,,,https://www.monotaro.com/g/08544064/,series_grouping_dimensions_incomplete
+IN-137,indoor,1,吉川国工業所,分別引き出ワイドボトル2段,,,50.0,255.0,465.0,717.0,,https://www.monotaro.com/g/06137302/,confirmed_ratio
+IN-138,indoor,1,吉川国工業所,分別引出スーパースリム2段,,25964979,18.0,140.0,465.0,533.0,,https://www.monotaro.com/p/2596/4979/,confirmed_ratio
+IN-139,indoor,1,山崎実業,ウォールダストボックス&収納ケース タワー,5433,25170759,2.0,170.0,,200.0,,https://www.monotaro.com/g/06109343/,series_grouping_dimensions_incomplete
+IN-139,indoor,2,山崎実業,ウォールダストボックス&収納ケース タワー,5434,28611374,2.0,170.0,,200.0,,https://www.monotaro.com/g/06109343/,series_grouping_dimensions_incomplete
+IN-140,indoor,1,山崎実業,スリム蓋付きゴミ箱 タワー 2個組,,75469163,35.0,190.0,400.0,540.0,,https://www.monotaro.com/p/7546/9163/,confirmed_ratio
+IN-140,indoor,2,山崎実業,スリム蓋付きゴミ箱 タワー,5203,75469127,45.0,190.0,400.0,540.0,,https://www.monotaro.com/g/05254566/,confirmed_ratio
+IN-140,indoor,3,山崎実業,スリム蓋付きゴミ箱 タワー,5204,75469136,45.0,190.0,400.0,540.0,,https://www.monotaro.com/g/05254566/,confirmed_ratio
+IN-141,indoor,1,山崎実業,スリム蓋付きゴミ箱 タワー 横開きタイプ 2個組 ブラック,,18953929,35.0,186.0,386.0,550.0,,https://www.monotaro.com/p/1895/3929/,confirmed_ratio
+IN-141,indoor,2,山崎実業,スリム蓋付きゴミ箱 タワー 横開きタイプ ホワイト,,18953895,35.0,186.0,386.0,550.0,,https://www.monotaro.com/p/1895/3895/,confirmed_ratio
+IN-141,indoor,3,山崎実業,スリム蓋付きゴミ箱 タワー 横開きタイプ ブラック,1525,18953911,35.0,186.0,386.0,550.0,,https://www.monotaro.com/g/07698500/,confirmed_ratio
+IN-142,indoor,1,山崎実業,トラッシュカン タワー,4492,54780207,9.0,180.0,180.0,330.0,,https://www.monotaro.com/g/04614867/,confirmed_ratio
+IN-142,indoor,2,山崎実業,トラッシュカン タワー,4493,54780216,9.0,180.0,180.0,330.0,,https://www.monotaro.com/g/04614867/,confirmed_ratio
+IN-143,indoor,1,山崎実業,トラッシュカン タワー ワイド,4494,54780225,15.0,360.0,160.0,330.0,,https://www.monotaro.com/g/04614868/,confirmed_ratio
+IN-143,indoor,2,山崎実業,トラッシュカン タワー ワイド,4495,54780234,15.0,360.0,160.0,330.0,,https://www.monotaro.com/g/04614868/,confirmed_ratio
+IN-144,indoor,1,山崎実業,トラッシュカン タワー 角型,2915,28582655,10.0,280.0,150.0,300.0,,https://www.monotaro.com/g/04122059/,confirmed_ratio
+IN-144,indoor,2,山崎実業,トラッシュカン タワー 角型,2916,28582664,10.0,280.0,150.0,300.0,,https://www.monotaro.com/g/04122059/,confirmed_ratio
+IN-145,indoor,1,山崎実業,トラッシュカン タワー 角型 14L ブラック,10593,77881338,14.0,224.0,224.0,332.0,,https://www.monotaro.com/g/08349529/,confirmed_ratio
+IN-146,indoor,1,山崎実業,トラッシュカン タワー 角型ロング,4488,54780164,27.0,225.0,225.0,600.0,,https://www.monotaro.com/g/04614865/,confirmed_ratio
+IN-146,indoor,2,山崎実業,トラッシュカン タワー 角型ロング,4489,54780173,27.0,225.0,225.0,600.0,,https://www.monotaro.com/g/04614865/,confirmed_ratio
+IN-147,indoor,1,山崎実業,トラッシュカン リン 角型,3196,28583714,10.0,280.0,150.0,300.0,,https://www.monotaro.com/p/2858/3714/,confirmed_ratio
+IN-148,indoor,1,山崎実業,トラッシュカン リン 角型ロング,,,27.0,220.0,220.0,600.0,,https://www.monotaro.com/g/04614869/,confirmed_ratio
+IN-149,indoor,1,山崎実業,マグネットトラッシュカン タワー 7L ホワイト,,18226839,7.0,220.0,132.0,300.0,,https://www.monotaro.com/p/1822/6839/,confirmed_ratio
+IN-149,indoor,2,山崎実業,マグネットトラッシュカン タワー 7L ブラック,1633,18226848,7.0,220.0,132.0,300.0,,https://www.monotaro.com/g/07683350/,confirmed_ratio
+IN-150,indoor,1,山崎実業,引っ掛けられるゴミ箱 タワー ブラック,10220,68764215,1.8,170.0,113.0,244.0,,https://www.monotaro.com/g/07993782/,confirmed_ratio
+IN-150,indoor,2,山崎実業,引っ掛けられるゴミ箱 タワー ホワイト,10219,68764206,1.8,170.0,113.0,244.0,,https://www.monotaro.com/g/07993781/,confirmed_ratio
+IN-151,indoor,1,山崎実業,蓋付きトラッシュカン タワー 角型 14L ブラック,10597,77881381,14.0,220.0,220.0,332.0,,https://www.monotaro.com/g/08349527/,confirmed_ratio
+IN-152,indoor,1,山崎実業,蓋付き卓上ゴミ箱 リン,5230,75469574,1.7,220.0,90.0,155.0,,https://www.monotaro.com/p/7546/9574/,confirmed_ratio
+IN-152,indoor,2,山崎実業,蓋付き卓上ゴミ箱 リン,5231,75469583,1.7,220.0,90.0,155.0,,https://www.monotaro.com/p/7546/9583/,confirmed_ratio
+IN-153,indoor,1,山崎産業,ダストボックス FITステップ ST-15,,,15.0,294.0,270.0,433.0,,https://www.monotaro.com/g/07683129/,confirmed_ratio
+IN-154,indoor,1,山崎産業,ダストボックスECO,,89803131,25.0,220.0,360.0,450.0,,https://www.monotaro.com/p/8980/3131/,confirmed_ratio
+IN-155,indoor,1,山崎産業,ダストボックスFITステップST,DP-41C-SB,70811399,10.0,264.0,268.0,430.0,,https://www.monotaro.com/g/08051221/,confirmed_ratio
+IN-156,indoor,1,山崎産業,ダストボックスFITステップST,DP-42C-SB,70811408,15.0,264.0,268.0,720.0,,https://www.monotaro.com/g/08051221/,confirmed_ratio
+IN-157,indoor,1,山崎産業,ダストポット,DP-05C-SA,02348832,15.0,,,,,https://www.monotaro.com/g/01009066/,series_grouping_dimensions_incomplete
+IN-157,indoor,2,山崎産業,ダストポット,DP-11C-SA,89803244,10.0,,,,,https://www.monotaro.com/g/01009066/,series_grouping_dimensions_incomplete
+IN-157,indoor,3,山崎産業,ダストポット,DP-14C-SA,89803262,7.0,,,,,https://www.monotaro.com/g/01009066/,series_grouping_dimensions_incomplete
+IN-158,indoor,1,山崎産業,ポリくず入れECO,YD-99L-PC,09936946,4.5,123.0,234.0,300.0,,https://www.monotaro.com/g/00344656/,confirmed_ratio
+IN-158,indoor,2,山崎産業,ポリくず入れECO,YD-98L-PC,37140451,9.0,146.0,282.0,380.0,,https://www.monotaro.com/g/00344656/,confirmed_ratio
+IN-159,indoor,1,山崎産業,ポリくず入れECO,YD-97C-PC,37140433,9.0,242.0,242.0,280.0,,https://www.monotaro.com/g/00344656/,confirmed_ratio
+IN-160,indoor,1,山崎産業,ママポットポリパック角型15L,DP-15,89804915,15.0,,,,,https://www.monotaro.com/g/01009177/,series_grouping_dimensions_incomplete
+IN-161,indoor,1,山崎産業,木調くずいれ,YD-66C-IY,89806884,44.0,,,635.0,,https://www.monotaro.com/g/01009280/,series_grouping_dimensions_incomplete
+IN-162,indoor,1,岩崎工業,カラードコレクター,L-1062,24827619,18.0,275.0,,380.0,,https://www.monotaro.com/p/2482/7619/,series_grouping_dimensions_incomplete
+IN-162,indoor,2,岩崎工業,カラードコレクター,L-1060,24827637,5.5,195.0,,230.0,,https://www.monotaro.com/p/2482/7637/,series_grouping_dimensions_incomplete
+IN-162,indoor,3,岩崎工業,カラードコレクター,L-1060,24827646,5.5,195.0,,230.0,,https://www.monotaro.com/p/2482/7646/,series_grouping_dimensions_incomplete
+IN-162,indoor,4,岩崎工業,カラードコレクター,L-1061,24827655,10.0,235.0,,300.0,,https://www.monotaro.com/p/2482/7655/,series_grouping_dimensions_incomplete
+IN-162,indoor,5,岩崎工業,カラードコレクター,L-1061,24827664,10.0,235.0,,300.0,,https://www.monotaro.com/p/2482/7664/,series_grouping_dimensions_incomplete
+IN-163,indoor,1,平和工業,ゴミ箱 スライドペール,20L 1P WH,25192084,20.0,210.0,340.0,455.0,,https://www.monotaro.com/g/06109951/,series_grouping_dimensions_incomplete
+IN-163,indoor,2,平和工業,ゴミ箱 スライドペール,20L 1P BK,25192100,20.0,210.0,340.0,455.0,,https://www.monotaro.com/g/06109951/,series_grouping_dimensions_incomplete
+IN-163,indoor,3,平和工業,ゴミ箱 スライドペール,45L 1P WH,25192145,45.0,268.0,416.0,602.0,,https://www.monotaro.com/g/06109951/,series_grouping_dimensions_incomplete
+IN-163,indoor,4,平和工業,ゴミ箱 スライドペール,45L 1P BK,25192154,45.0,268.0,416.0,602.0,,https://www.monotaro.com/g/06109951/,series_grouping_dimensions_incomplete
+IN-163,indoor,5,平和工業,ゴミ箱 スライドペール,20L 2P WH,25192109,20.0,210.0,340.0,455.0,,https://www.monotaro.com/g/06109951/,series_grouping_dimensions_incomplete
+IN-163,indoor,6,平和工業,ゴミ箱 スライドペール,20L 2P BK,25192118,20.0,210.0,340.0,455.0,,https://www.monotaro.com/g/06109951/,series_grouping_dimensions_incomplete
+IN-163,indoor,7,平和工業,ゴミ箱 スライドペール,45L 2P BK,25192179,45.0,268.0,416.0,602.0,,https://www.monotaro.com/g/06109951/,series_grouping_dimensions_incomplete
+IN-163,indoor,8,平和工業,ゴミ箱 スライドペール,20L 3P WH,25192127,20.0,210.0,340.0,455.0,,https://www.monotaro.com/g/06109951/,series_grouping_dimensions_incomplete
+IN-163,indoor,9,平和工業,ゴミ箱 スライドペール,45L 3P BK,25192197,45.0,268.0,416.0,602.0,,https://www.monotaro.com/g/06109951/,series_grouping_dimensions_incomplete
+IN-163,indoor,10,平和工業,スライドペール45L,,80326044,45.0,,,602.0,,https://www.monotaro.com/g/06944298/,series_grouping_dimensions_incomplete
+IN-163,indoor,11,平和工業,スライドペール45L,,80326060,45.0,,,602.0,,https://www.monotaro.com/g/06944298/,series_grouping_dimensions_incomplete
+IN-163,indoor,12,平和工業,スライドペール18L,,68279595,18.0,,,360.0,,https://www.monotaro.com/g/06818602/,series_grouping_dimensions_incomplete
+IN-163,indoor,13,平和工業,スライドペール18L,,68279604,18.0,,,360.0,,https://www.monotaro.com/g/06818602/,series_grouping_dimensions_incomplete
+IN-163,indoor,14,平和工業,スライドペール18L,,68279620,18.0,,,360.0,,https://www.monotaro.com/g/06818602/,series_grouping_dimensions_incomplete
+IN-163,indoor,15,平和工業,スライドペール,-,64347319,30.0,,,,,https://www.monotaro.com/p/6434/7319/,series_grouping_dimensions_incomplete
+IN-163,indoor,16,平和工業,スライドペール,-,64347328,30.0,265.0,410.0,605.0,,https://www.monotaro.com/p/6434/7328/,series_grouping_dimensions_incomplete
+IN-164,indoor,1,平和工業,トラッシュポット3.5,,81382607,3.5,170.0,195.0,270.0,,https://www.monotaro.com/g/08512290/,confirmed_ratio
+IN-164,indoor,2,平和工業,トラッシュポット3.5,,81382616,4.0,170.0,195.0,270.0,,https://www.monotaro.com/g/08512290/,confirmed_ratio
+IN-165,indoor,1,平和工業,トラッシュポット8.0,,81382625,8.0,260.0,255.0,333.0,,https://www.monotaro.com/g/08512289/,confirmed_ratio
+IN-165,indoor,2,平和工業,トラッシュポット8.0,,81382668,8.0,260.0,255.0,333.0,,https://www.monotaro.com/g/08512289/,confirmed_ratio
+IN-166,indoor,1,平和工業,バタフライペダルペール,32L 1P CG,25192766,32.0,228.0,480.0,485.0,,https://www.monotaro.com/g/06109985/,confirmed_ratio
+IN-166,indoor,2,平和工業,バタフライペダルペール,32L 1P NA,25192775,32.0,228.0,480.0,485.0,,https://www.monotaro.com/g/06109985/,confirmed_ratio
+IN-166,indoor,3,平和工業,バタフライペダルペール32L,,82999799,32.0,228.0,480.0,485.0,,https://www.monotaro.com/g/08540925/,confirmed_ratio
+IN-166,indoor,4,平和工業,バタフライペダルペール32L,,82999817,32.0,228.0,480.0,485.0,,https://www.monotaro.com/g/08540925/,confirmed_ratio
+IN-166,indoor,5,平和工業,バタフライペダルペール32L,,82999851,32.0,228.0,480.0,485.0,,https://www.monotaro.com/g/08540925/,confirmed_ratio
+IN-167,indoor,1,平和工業,バタフライペダルペール45L,,82999808,45.0,265.0,480.0,560.0,,https://www.monotaro.com/g/08540926/,confirmed_ratio
+IN-167,indoor,2,平和工業,バタフライペダルペール45L,,82999835,45.0,265.0,480.0,560.0,,https://www.monotaro.com/g/08540926/,confirmed_ratio
+IN-167,indoor,3,平和工業,バタフライペダルペール45L,,82999860,45.0,265.0,480.0,560.0,,https://www.monotaro.com/g/08540926/,confirmed_ratio
+IN-168,indoor,1,平和工業,フタの開く向きを変えられるパッキン付きペダルペール45L,,60905051,45.0,,,,,https://www.monotaro.com/g/07866272/,series_grouping_dimensions_incomplete
+IN-168,indoor,2,平和工業,フタの開く向きを変えられるパッキン付きペダルペール45L,,60905060,45.0,,,,,https://www.monotaro.com/g/07866272/,series_grouping_dimensions_incomplete
+IN-169,indoor,1,平和工業,プッシュペール6L,,68279629,6.0,,,281.0,,https://www.monotaro.com/g/06818603/,series_grouping_dimensions_incomplete
+IN-169,indoor,2,平和工業,プッシュペール6L,,68279638,6.0,,,281.0,,https://www.monotaro.com/g/06818603/,series_grouping_dimensions_incomplete
+IN-169,indoor,3,平和工業,プッシュペール6L,,68279647,6.0,,,281.0,,https://www.monotaro.com/g/06818603/,series_grouping_dimensions_incomplete
+IN-170,indoor,1,平和工業,積み重ね ゴミ箱,,42823087,30.0,280.0,450.0,510.0,,https://www.monotaro.com/g/04299692/,confirmed_ratio
+IN-171,indoor,1,平和工業,積み重ねゴミ箱スリム45L ナイトブルー,,06360378,45.0,280.0,450.0,670.0,,https://www.monotaro.com/g/07295980/,confirmed_ratio
+IN-172,indoor,1,平和工業,積み重ねゴミ箱ワイド45L ミルクティーベージュ,,06360448,45.0,450.0,280.0,670.0,,https://www.monotaro.com/g/07295969/,confirmed_ratio
+IN-172,indoor,2,平和工業,積み重ねゴミ箱ワイド45L クールグレー,,06360430,45.0,450.0,280.0,670.0,,https://www.monotaro.com/p/0636/0430/,confirmed_ratio
+IN-173,indoor,1,新輝合成,ゴミ箱 ネオカラー分別オープンペール 3個セット,02129,20244458,20.0,185.0,365.0,435.0,,https://www.monotaro.com/g/07745259/,confirmed_ratio
+IN-174,indoor,1,新輝合成,ゴミ箱 ネオカラー分別台座付オープンペール 3個セット,,,20.0,,365.0,505.0,,https://www.monotaro.com/g/07745260/,series_grouping_dimensions_incomplete
+IN-175,indoor,1,新輝合成,セパ スリム,00850,44342823,15.0,195.0,330.0,435.0,,https://www.monotaro.com/g/04356143/,confirmed_ratio
+IN-176,indoor,1,新輝合成,セパ スリム,00843,44342787,19.7,240.0,340.0,460.0,,https://www.monotaro.com/g/04356143/,confirmed_ratio
+IN-176,indoor,2,新輝合成,セパ スリム,00841,44342805,47.0,285.0,445.0,585.0,,https://www.monotaro.com/g/04356143/,confirmed_ratio
+IN-176,indoor,3,新輝合成,セパ スリム,00840,44342814,60.0,325.0,480.0,650.0,,https://www.monotaro.com/g/04356143/,confirmed_ratio
+IN-177,indoor,1,新輝合成,セパ スリム,00842,44342796,30.0,250.0,415.0,500.0,,https://www.monotaro.com/g/04356143/,confirmed_ratio
+IN-178,indoor,1,新輝合成,セパスイング,02075,25007449,25.0,245.0,375.0,525.0,,https://www.monotaro.com/p/2500/7449/,confirmed_ratio
+IN-178,indoor,2,新輝合成,セパスイング,02076,25007458,15.0,210.0,320.0,450.0,,https://www.monotaro.com/p/2500/7458/,confirmed_ratio
+IN-179,indoor,1,新輝合成,セパスイング,02073,25007424,47.0,275.0,450.0,660.0,,https://www.monotaro.com/p/2500/7424/,confirmed_ratio
+IN-179,indoor,2,新輝合成,セパスイング,02074,25007440,37.0,245.0,415.0,630.0,,https://www.monotaro.com/p/2500/7440/,confirmed_ratio
+IN-180,indoor,1,新輝合成,セレクトペール,00383,44343329,46.0,,,,,https://www.monotaro.com/g/04356149/,series_grouping_dimensions_incomplete
+IN-181,indoor,1,新輝合成,トスO-30 グレー,,44343514,5.2,,,,,https://www.monotaro.com/p/4434/3514/,series_grouping_dimensions_incomplete
+IN-182,indoor,1,新輝合成,トスO-40 グレー,,,11.6,,,,,https://www.monotaro.com/g/04356159/,series_grouping_dimensions_incomplete
+IN-183,indoor,1,新輝合成,トスR-25 グレー,00485,44343557,7.4,215.0,215.0,260.0,,https://www.monotaro.com/g/04356161/,confirmed_ratio
+IN-184,indoor,1,新輝合成,トスR-35 グレー,00481,44343575,14.0,255.0,255.0,355.0,,https://www.monotaro.com/g/04356163/,confirmed_ratio
+IN-185,indoor,1,新輝合成,トンボ ニューセレクトペール 本体,M-35,27387694,35.0,440.0,,400.0,,https://www.monotaro.com/p/2738/7694/,series_grouping_dimensions_incomplete
+IN-185,indoor,2,新輝合成,トンボ ニューセレクトペール 本体,M-70,27387719,70.0,540.0,,530.0,,https://www.monotaro.com/p/2738/7719/,series_grouping_dimensions_incomplete
+IN-185,indoor,3,新輝合成,トンボ ニューセレクトペール 本体,M-90,27387728,90.0,540.0,,660.0,,https://www.monotaro.com/p/2738/7728/,series_grouping_dimensions_incomplete
+IN-185,indoor,4,新輝合成,トンボ ニューセレクトペール 本体,-,65451385,45.0,440.0,,500.0,,https://www.monotaro.com/p/6545/1385/,series_grouping_dimensions_incomplete
+IN-186,indoor,1,新輝合成,トンボダストBOXエコ蓋付,25,45994604,26.0,325.0,315.0,545.0,,https://www.monotaro.com/g/04389514/,confirmed_ratio
+IN-186,indoor,2,新輝合成,トンボダストBOXエコ蓋付,35,45994613,37.0,365.0,350.0,610.0,,https://www.monotaro.com/g/04389514/,confirmed_ratio
+IN-186,indoor,3,新輝合成,トンボダストBOXエコ蓋付,45,45994629,48.0,395.0,380.0,665.0,,https://www.monotaro.com/g/04389514/,confirmed_ratio
+IN-186,indoor,4,新輝合成,トンボダストBOXエコ蓋付,60,45994638,65.0,430.0,410.0,760.0,,https://www.monotaro.com/g/04389514/,confirmed_ratio
+IN-186,indoor,5,新輝合成,トンボダストBOXエコ蓋付,80,45994647,86.0,465.0,445.0,855.0,,https://www.monotaro.com/g/04389514/,confirmed_ratio
+IN-187,indoor,1,新輝合成,ネオカラー分別スリムペダル20,957,46163138,20.0,200.0,355.0,450.0,,https://www.monotaro.com/g/06232758/,confirmed_ratio
+IN-188,indoor,1,新輝合成,ネオカラー分別スリムペダル45,956,46163129,45.0,265.0,455.0,555.0,,https://www.monotaro.com/g/06232760/,confirmed_ratio
+IN-189,indoor,1,新輝合成,ファブ,,44343855,35.0,,,,,https://www.monotaro.com/p/4434/3855/,series_grouping_dimensions_incomplete
+IN-190,indoor,1,新輝合成,ファブ フレーム,00245,39603566,25.0,230.0,330.0,495.0,,https://www.monotaro.com/g/00398325/,confirmed_ratio
+IN-190,indoor,2,新輝合成,ファブ フレーム,00227,39603575,35.0,250.0,370.0,545.0,,https://www.monotaro.com/g/00398325/,confirmed_ratio
+IN-191,indoor,1,新輝合成,ユニード カクス,S-28,25721579,5.5,170.0,170.0,280.0,,https://www.monotaro.com/g/04048326/,confirmed_ratio
+IN-191,indoor,2,新輝合成,ユニード カクス,S-28,25721597,5.5,170.0,170.0,280.0,,https://www.monotaro.com/g/04048326/,confirmed_ratio
+IN-192,indoor,1,新輝合成,ユニード カクス,S-36,25721527,9.0,190.0,190.0,360.0,,https://www.monotaro.com/g/04048326/,confirmed_ratio
+IN-192,indoor,2,新輝合成,ユニード カクス,S-36,25721536,9.0,190.0,190.0,360.0,,https://www.monotaro.com/g/04048326/,confirmed_ratio
+IN-193,indoor,1,新輝合成,ユニード プッシュ&ペダル 45S,-,25716067,45.0,265.0,455.0,555.0,,https://www.monotaro.com/p/2571/6067/,confirmed_ratio
+IN-193,indoor,2,新輝合成,ユニード プッシュ&ペダル 45S,-,25716076,45.0,265.0,455.0,555.0,,https://www.monotaro.com/p/2571/6076/,confirmed_ratio
+IN-194,indoor,1,新輝合成,ユニード 分別スリム2段36S,02040,25007300,36.0,235.0,335.0,855.0,,https://www.monotaro.com/g/06104839/,confirmed_ratio
+IN-194,indoor,2,新輝合成,ユニード 分別スリム2段36S,02041,25007309,36.0,235.0,335.0,855.0,,https://www.monotaro.com/g/06104839/,confirmed_ratio
+IN-195,indoor,1,新輝合成,ユニード 多段スリムペール2段,,73772327,20.0,,,,,https://www.monotaro.com/g/05219338/,series_grouping_dimensions_incomplete
+IN-196,indoor,1,新輝合成,ユニード 多段スリムペール3段,,73772309,30.0,205.0,295.0,1055.0,,https://www.monotaro.com/g/05219337/,confirmed_ratio
+IN-196,indoor,2,新輝合成,ユニード 多段スリムペール3段,,73772318,30.0,205.0,295.0,1055.0,,https://www.monotaro.com/g/05219337/,confirmed_ratio
+IN-197,indoor,1,新輝合成,消臭ダストボックス ペールパッキン付 20型,2010,46163156,20.0,185.0,355.0,440.0,,https://www.monotaro.com/g/06232792/,confirmed_ratio
+IN-198,indoor,1,新輝合成,消臭ペールパッキン付,02011,74134367,11.5,170.0,340.0,380.0,,https://www.monotaro.com/g/05235984/,confirmed_ratio
+IN-198,indoor,2,新輝合成,消臭ペールパッキン付,02012,74134376,14.0,170.0,340.0,380.0,,https://www.monotaro.com/g/05235984/,confirmed_ratio
+IN-199,indoor,1,新輝合成,連結カラー分別ペール,02066,25007537,70.0,365.0,485.0,600.0,,https://www.monotaro.com/p/2500/7537/,confirmed_ratio
+IN-199,indoor,2,新輝合成,連結カラー分別ペール,02069,25007564,33.0,280.0,370.0,490.0,,https://www.monotaro.com/p/2500/7564/,confirmed_ratio
+IN-199,indoor,3,新輝合成,連結カラー分別ペール,02070,25007580,33.0,280.0,370.0,490.0,,https://www.monotaro.com/p/2500/7580/,confirmed_ratio
+IN-199,indoor,4,新輝合成,ゴミ箱 連結カラー分別ペール70,02130,20244607,70.0,365.0,480.0,600.0,,https://www.monotaro.com/g/07745257/,confirmed_ratio
+IN-199,indoor,5,新輝合成,ゴミ箱 連結カラー分別ペール70,02131,20244616,70.0,365.0,480.0,600.0,,https://www.monotaro.com/g/07745257/,confirmed_ratio
+IN-199,indoor,6,新輝合成,ゴミ箱 連結カラー分別ペール33,02134,20244650,33.0,280.0,365.0,495.0,,https://www.monotaro.com/g/07745263/,confirmed_ratio
+IN-199,indoor,7,新輝合成,ゴミ箱 連結カラー分別ペール33,02135,20244659,33.0,280.0,365.0,495.0,,https://www.monotaro.com/g/07745263/,confirmed_ratio
+IN-200,indoor,1,新輝合成,連結カラー分別ペール,02067,25007546,45.0,310.0,390.0,575.0,,https://www.monotaro.com/p/2500/7546/,confirmed_ratio
+IN-200,indoor,2,新輝合成,連結カラー分別ペール,2068,25007555,45.0,310.0,390.0,575.0,,https://www.monotaro.com/p/2500/7555/,confirmed_ratio
+IN-200,indoor,3,新輝合成,ゴミ箱 連結カラー分別ペール45,02132,20244625,45.0,310.0,390.0,575.0,,https://www.monotaro.com/g/07745261/,confirmed_ratio
+IN-200,indoor,4,新輝合成,ゴミ箱 連結カラー分別ペール45,02133,20244641,45.0,310.0,390.0,575.0,,https://www.monotaro.com/g/07745261/,confirmed_ratio
+OUT-001,outdoor,1,,折たたみ ゴミ箱 ワイヤータイプ,,63854456,80.0,405.0,405.0,630.0,,https://www.monotaro.com/g/04970809/,confirmed_ratio
+OUT-002,outdoor,1,ANOBA,マルチダストバケット,,,,360,270,320,,https://store.hinata.me/products/anoba-mulch-dust-bucket,confirmed_ratio
+OUT-003,outdoor,1,CHUMS,CHUMS Logo Pop Up Trash Can,CH60-3770,,,300,300,380,,https://item.rakuten.co.jp/snb-shop/ch60-3770/,confirmed_ratio
+OUT-004,outdoor,1,COGHLAN'S（コフラン）,ポップアップキャンプトラッシュカン,,,111,,,,,https://aandfstore.com/products/11210269000000?srsltid=AU7gw4XiNMEKsTYM-EcWWq_S488Ap7I1vncYiWLekJXZtPnBjaoqnwR_,series_grouping_dimensions_incomplete
+OUT-005,outdoor,1,Coleman,ポップアップボックス（コヨーテ）,2000038938,,,,,340,300,https://ec.coleman.co.jp/item/2000038938.html,confirmed_ratio
+OUT-006,outdoor,1,DOD(ディーオーディー),ステルスエックス,GM1-450-TN,52638734,,445.0,420.0,590.0,,https://www.monotaro.com/g/06299897/,confirmed_ratio
+OUT-007,outdoor,1,DULTON（ダルトン）,プラスチックトラッシュカン 18L,,,18,290,320,400,,https://anamall.ana.co.jp/shop/g/g0042-311496-BL/,confirmed_ratio
+OUT-008,outdoor,1,LOGOS,トラッシュケース L（45L×2袋用）,,,,360,560,600,,https://www.logos.ne.jp/products/info/11609,confirmed_ratio
+OUT-009,outdoor,1,LOGOS,トラッシュケース M（30L袋用）,,,,260,370,350,,https://www.logos.ne.jp/products/info/11608,confirmed_ratio
+OUT-010,outdoor,1,LOGOS,分別できるフォールディングダストBOX,,,80,630,340,500,,https://www.logos.ne.jp/products/info/3967,confirmed_ratio
+OUT-011,outdoor,1,PYKES PEAK（パイクスピーク）,トラッシュボックス,,,40,,,,,https://pykespeak.jp/products/pykes-peak-%E3%83%91%E3%82%A4%E3%82%AF%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AF-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97-%E3%82%B4%E3%83%9F%E7%AE%B1-%E3%83%88%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%E3%82%B4%E3%83%9F%E7%AE%B1-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E7%94%A8%E5%93%81-%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97-%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88-40l-60l,series_grouping_dimensions_incomplete
+OUT-011,outdoor,2,PYKES PEAK（パイクスピーク）,トラッシュボックス,,,60,,,,,https://pykespeak.jp/products/pykes-peak-%E3%83%91%E3%82%A4%E3%82%AF%E3%82%B9%E3%83%94%E3%83%BC%E3%82%AF-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97-%E3%82%B4%E3%83%9F%E7%AE%B1-%E3%83%88%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF%E3%82%B4%E3%83%9F%E7%AE%B1-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E7%94%A8%E5%93%81-%E3%83%9D%E3%83%83%E3%83%97%E3%82%A2%E3%83%83%E3%83%97-%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88-40l-60l,series_grouping_dimensions_incomplete
+OUT-012,outdoor,1,QUICKCAMP（クイックキャンプ）,トラッシュボックス,QC-TB40,,45,,,500,400,https://quickcamp.jp/journal/product/p3297/,confirmed_ratio
+OUT-013,outdoor,1,QUICKCAMP（クイックキャンプ）,ミニトラッシュボックス,QC-TB350,,30,,,310,350,https://quickcamp.jp/journal/product/p3297/,confirmed_ratio
+OUT-014,outdoor,1,ROOTOTE（ルートート）,ルーガービッジ 30L 3P-C,9681,,,300,200,400,,https://www.rootote-flagship-store.com/products/9681,confirmed_ratio
+OUT-015,outdoor,1,SUNCAST（サンキャスト）,ウッディーダストボックス GH1732,GH1732,,,400,410,800,,https://store.shopping.yahoo.co.jp/suncast/gh1732.html,confirmed_ratio
+OUT-016,outdoor,1,THOR（ソー）,Round Container DC 23L,,,23,385,335,387,,https://www.hightide.co.jp/c/category/life/dustbox/item-hd4238,confirmed_ratio
+OUT-017,outdoor,1,UNIT(ユニット),ごみ箱 グランドコーナー 鉄製粉体塗装,877-12,69035666,,,,,,https://www.monotaro.com/g/08003324/,series_grouping_dimensions_incomplete
+OUT-017,outdoor,2,UNIT(ユニット),ごみ箱 グランドコーナー 鉄製粉体塗装,877-13,69039340,,,,,,https://www.monotaro.com/g/08003324/,series_grouping_dimensions_incomplete
+OUT-018,outdoor,1,VASTLAND,ポップアップトラッシュボックス22L,VL0554,,22,300,300,320,,https://item.rakuten.co.jp/vastland/vl0554-1/,confirmed_ratio
+OUT-018,outdoor,2,VASTLAND,ポップアップトラッシュボックス80L,VL0558,,80,450,450,500,,https://item.rakuten.co.jp/vastland/vl0558-1/,confirmed_ratio
+OUT-019,outdoor,1,WAQ,Trash Box,,,,,,,,https://waq-online.com/products/waq-tb1,series_grouping_dimensions_incomplete
+OUT-020,outdoor,1,YOLER,ポップアップトラッシュボックス YR-FTC01,YR-FTC01,,62,,,,,https://item.rakuten.co.jp/yoler/yr-ftc/,series_grouping_dimensions_incomplete
+OUT-021,outdoor,1,YOLER,マルチトラッシュボックス YR-FTC02 M,YR-FTC02,,87.5,,,550,450,https://item.rakuten.co.jp/yoler/yr-ftc02m/,confirmed_ratio
+OUT-022,outdoor,1,ZANE ARTS（ゼインアーツ）,モビボックス,BG-015,,20,,,360,320,https://shop-orange.info/products/zanearts-028,confirmed_ratio
+OUT-023,outdoor,1,ogawa,ポップアップトラッシュボックス19,,,19,,,270,300,https://www.store-campal.co.jp/products/detail.php?product_id=13326,confirmed_ratio
+OUT-024,outdoor,1,ogawa,ポップアップトラッシュボックス55,,,55,,,450,400,https://www.store-campal.co.jp/products/detail.php?product_id=13327,confirmed_ratio
+OUT-025,outdoor,1,ぶんぶく,グランドトラッシュ ビン・カン用 ステンレスヘアライン仕上 OSE-Z-82,,,67.0,500.0,500.0,1165.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ose_z_82.html,confirmed_ratio
+OUT-026,outdoor,1,ぶんぶく,グランドトラッシュ 標準型 ステンレスヘアライン仕上 OSE-Z-80,,,67.0,500,500,1165,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ose_z_80.html,confirmed_ratio
+OUT-027,outdoor,1,ぶんぶく,リサイクル トラッシュ Bライン PETボトル用 ステンレスヘアライン仕上 OSL-Z-31,,,24.0,240.0,330.0,652.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-osl_z_31.html,confirmed_ratio
+OUT-027,outdoor,2,ぶんぶく,リサイクル トラッシュ Bライン PETボトル用,,,24.0,240.0,330.0,652.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-osl_31.html,confirmed_ratio
+OUT-028,outdoor,1,ぶんぶく,リサイクル トラッシュ Bライン ビン･カン用 ステンレスヘアライン仕上 OSL-Z-30,,,24.0,240.0,330.0,652.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-osl_z_30.html,confirmed_ratio
+OUT-028,outdoor,2,ぶんぶく,リサイクル トラッシュ Bライン ビン･カン用,,,24.0,240.0,330.0,652.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-osl_30.html,confirmed_ratio
+OUT-029,outdoor,1,ぶんぶく,リサイクル トラッシュ Bライン 一般ゴミ用 ステンレスヘアライン仕上 OSL-Z-32,,,24.0,240.0,330.0,652.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-osl_z_32.html,confirmed_ratio
+OUT-029,outdoor,2,ぶんぶく,リサイクル トラッシュ Bライン 一般ゴミ用,,,24.0,240.0,330.0,652.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-osl_32.html,confirmed_ratio
+OUT-030,outdoor,1,ぶんぶく,リサイクル トラッシュ Bライン 一般用小型タイプ ステンレスヘアライン仕上 OSL-Z-24,,,24.0,329.0,240.0,600.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-osl_z_24.html,confirmed_ratio
+OUT-030,outdoor,2,ぶんぶく,リサイクル トラッシュ Bライン 一般用小型タイプ 一般ゴミ用,,,24.0,329.0,240.0,600.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-osl_24.html,confirmed_ratio
+OUT-031,outdoor,1,ぶんぶく,リサイクル トラッシュ Bライン 一般用小型タイプ ビン･カン用 ステンレスヘアライン仕上 OSL-Z-23,,,24.0,329.0,240.0,600.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-osl_z_23.html,confirmed_ratio
+OUT-031,outdoor,2,ぶんぶく,リサイクル トラッシュ Bライン 一般用小型タイプ ビン･カン用,,,24.0,329.0,240.0,600.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-osl_23.html,confirmed_ratio
+OUT-032,outdoor,1,ぶんぶく,リサイクルトラッシュ NEO 90L,,,90.0,650.0,450.0,1000.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-rt_90.html,confirmed_ratio
+OUT-033,outdoor,1,ぶんぶく,リサイクルトラッシュ PETボトル用タイプ 幅350mm ステンレスヘアライン仕上 OSE-30-SUS,,,36.0,350.0,420.0,850.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ose_30_sus.html,confirmed_ratio
+OUT-033,outdoor,2,ぶんぶく,リサイクルトラッシュ PETボトル用タイプ 幅350mm,,,36.0,350.0,420.0,850.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ose_30.html,confirmed_ratio
+OUT-034,outdoor,1,ぶんぶく,リサイクルトラッシュ PUSH蓋＆カギ付 幅350mm ステンレスヘアライン仕上 OSE-38-SUS,,,36.0,350.0,420.0,850.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ose_38_sus.html,confirmed_ratio
+OUT-034,outdoor,2,ぶんぶく,リサイクルトラッシュ PUSH蓋＆カギ付 幅350mm,,,36.0,350.0,420.0,850.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ose_38.html,confirmed_ratio
+OUT-035,outdoor,1,ぶんぶく,リサイクルトラッシュ PUSH蓋＆カギ付 幅500mm ステンレスヘアライン仕上 OSE-37-SUS,,,36.0,500.0,350.0,850.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ose_37_sus.html,confirmed_ratio
+OUT-035,outdoor,2,ぶんぶく,リサイクルトラッシュ PUSH蓋＆カギ付 幅500mm,,,36.0,500.0,350.0,850.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ose_37.html,confirmed_ratio
+OUT-036,outdoor,1,ぶんぶく,リサイクルトラッシュ ビン･カン用タイプ 幅350mm ステンレスヘアライン仕上 OSE-31-SUS,,,36.0,350.0,420.0,850.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ose_31_sus.html,confirmed_ratio
+OUT-036,outdoor,2,ぶんぶく,リサイクルトラッシュ ビン･カン用タイプ 幅350mm,,,36.0,350.0,420.0,850.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ose_31.html,confirmed_ratio
+OUT-037,outdoor,1,ぶんぶく,リサイクルトラッシュ ビン･カン用タイプ 幅500mm ステンレスヘアライン仕上 OSE-33-SUS,,,36.0,500.0,350.0,850.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ose_33_sus.html,confirmed_ratio
+OUT-037,outdoor,2,ぶんぶく,リサイクルトラッシュ ビン･カン用タイプ 幅500mm,,,36.0,500.0,350.0,850.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ose_33.html,confirmed_ratio
+OUT-038,outdoor,1,ぶんぶく,リサイクルトラッシュ 一般ゴミ用タイプ 幅350mm ステンレスヘアライン仕上 OSE-35-SUS,,,36.0,350.0,420.0,850.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ose_35_sus.html,confirmed_ratio
+OUT-038,outdoor,2,ぶんぶく,リサイクルトラッシュ 一般ゴミ用タイプ 幅350mm,,,36.0,350.0,420.0,850.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ose_35.html,confirmed_ratio
+OUT-039,outdoor,1,ぶんぶく,リサイクルトラッシュ 一般ゴミ用タイプ 幅500mm ステンレスヘアライン仕上 OSE-32-SUS,,,36.0,500.0,350.0,850.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ose_32_sus.html,confirmed_ratio
+OUT-039,outdoor,2,ぶんぶく,リサイクルトラッシュ 一般ゴミ用タイプ 幅500mm,,,36.0,500.0,350.0,850.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ose_32.html,confirmed_ratio
+OUT-040,outdoor,1,ぶんぶく,リサイクルトラッシュ 窓付 PETボトル用タイプ ステンレスヘアライン仕上 OSE-Z-38,,,,500.0,350.0,950.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ose_z_38.html,confirmed_ratio
+OUT-041,outdoor,1,ぶんぶく,リサイクルトラッシュ 窓付 ビン・カン用タイプ ステンレスヘアライン仕上 OSE-Z-39,,,,500.0,350.0,950.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ose_z_39.html,confirmed_ratio
+OUT-042,outdoor,1,ぶんぶく,リサイクルトラッシュ 窓付 一般ゴミ用タイプ ステンレスヘアライン仕上 OSE-Z-37,,,,500.0,350.0,950.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ose_z_37.html,confirmed_ratio
+OUT-043,outdoor,1,ぶんぶく,分別ボックス 70 オープン,,,70.0,375.0,520.0,881.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ww70_op.html,confirmed_ratio
+OUT-044,outdoor,1,ぶんぶく,分別ボックス 70 ビンカン,,,70.0,375.0,520.0,881.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ww70_bc.html,confirmed_ratio
+OUT-045,outdoor,1,ぶんぶく,分別ボックス 70 プッシュ,,,70.0,375.0,520.0,881.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ww70_pu.html,confirmed_ratio
+OUT-046,outdoor,1,ぶんぶく,分別ボックス 70 ペット,,,70.0,375.0,520.0,881.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ww70_pet.html,confirmed_ratio
+OUT-047,outdoor,1,ぶんぶく,分別ボックス 90 オープン,,,90.0,430.0,595.0,902.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ww90_op.html,confirmed_ratio
+OUT-048,outdoor,1,ぶんぶく,分別ボックス 90 ビンカン,,,90.0,430.0,595.0,902.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ww90_bc.html,confirmed_ratio
+OUT-049,outdoor,1,ぶんぶく,分別ボックス 90 プッシュ,,,90.0,430.0,595.0,902.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ww90_pu.html,confirmed_ratio
+OUT-050,outdoor,1,ぶんぶく,分別ボックス 90 ペット,,,90.0,430.0,595.0,902.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/bun-ww90_pet.html,confirmed_ratio
+OUT-051,outdoor,1,アストロ,携帯トラッシュボックス メッシュ 45L用,,59643967,,360.0,360.0,580.0,,https://www.monotaro.com/g/07833717/,confirmed_ratio
+OUT-052,outdoor,1,アスベル,SPハンドル付ダストボックス,6726,17216982,45.0,315,423,618,,https://www.monotaro.com/g/01257517/,confirmed_ratio
+OUT-052,outdoor,2,アスベル,SPハンドル付ダストボックス,6726,17216998,45.0,315,423,618,,https://www.monotaro.com/g/01257517/,confirmed_ratio
+OUT-053,outdoor,1,アスベル,SPハンドル付ダストボックス(車輪付き),6728,17217034,90.0,440,560,795,,https://www.monotaro.com/g/01257519/,confirmed_ratio
+OUT-053,outdoor,2,アスベル,SPハンドル付ダストボックス(車輪付き),6728,17217043,90.0,440,560,795,,https://www.monotaro.com/g/01257519/,confirmed_ratio
+OUT-054,outdoor,1,アスベル,SPハンドル付ダストボックスW,6727,17217007,70.0,477.0,,643.0,,https://www.monotaro.com/g/01257518/,series_grouping_dimensions_incomplete
+OUT-054,outdoor,2,アスベル,SPハンドル付ダストボックスW,6727,17217016,70.0,477.0,,643.0,,https://www.monotaro.com/g/01257518/,series_grouping_dimensions_incomplete
+OUT-054,outdoor,3,アスベル,SPハンドル付ダストボックスW,6727,17217025,70.0,477.0,,643.0,,https://www.monotaro.com/g/01257518/,series_grouping_dimensions_incomplete
+OUT-055,outdoor,1,アスベル,エバン 4分別ダストボックス,,24895467,120.0,,,,,https://www.monotaro.com/p/2489/5467/,series_grouping_dimensions_incomplete
+OUT-056,outdoor,1,アスベル,エバン ジョイント分別ペール,,24895519,,845.0,367.0,520.0,,https://www.monotaro.com/g/06103666/,confirmed_ratio
+OUT-057,outdoor,1,アスベル,エバン ジョイント分別ペール,,24895528,45.0,345.0,405.0,610.0,,https://www.monotaro.com/g/06103666/,confirmed_ratio
+OUT-057,outdoor,2,アスベル,エバン ジョイント分別ペール,,24895537,45.0,345.0,405.0,610.0,,https://www.monotaro.com/g/06103666/,confirmed_ratio
+OUT-057,outdoor,3,アスベル,エバン ジョイント分別ペール,,24895546,45.0,345.0,405.0,610.0,,https://www.monotaro.com/g/06103666/,confirmed_ratio
+OUT-058,outdoor,1,アスベル,ジョイント分別ペール,A6645,28993949,27.0,265.0,367.0,520.0,,https://www.monotaro.com/g/06153786/,confirmed_ratio
+OUT-058,outdoor,2,アスベル,ジョイント分別ペール,A6645,28993958,27.0,265.0,367.0,520.0,,https://www.monotaro.com/g/06153786/,confirmed_ratio
+OUT-058,outdoor,3,アスベル,ジョイント分別ペール,A6645,28993967,27.0,265.0,367.0,520.0,,https://www.monotaro.com/g/06153786/,confirmed_ratio
+OUT-059,outdoor,1,アスベル,ジョイント分別ペール,A6646,28993976,33.0,305.0,367.0,520.0,,https://www.monotaro.com/g/06153786/,confirmed_ratio
+OUT-059,outdoor,2,アスベル,ジョイント分別ペール,A6646,28993985,33.0,305.0,367.0,520.0,,https://www.monotaro.com/g/06153786/,confirmed_ratio
+OUT-059,outdoor,3,アスベル,ジョイント分別ペール,A6646,28993994,33.0,305.0,367.0,520.0,,https://www.monotaro.com/g/06153786/,confirmed_ratio
+OUT-060,outdoor,1,アスベル,ハンドル付カラー分別ペール70L,,00336787,70.0,485.0,396.0,668.0,,https://www.monotaro.com/p/0033/6787/,confirmed_ratio
+OUT-061,outdoor,1,アスベル,ハンドル付分別ペール70L,665004,07596359,70.0,,400.0,643.0,,https://www.monotaro.com/g/07326364/,series_grouping_dimensions_incomplete
+OUT-061,outdoor,2,アスベル,ハンドル付分別ペール70L,665005,07596368,70.0,,400.0,643.0,,https://www.monotaro.com/g/07326364/,series_grouping_dimensions_incomplete
+OUT-061,outdoor,3,アスベル,ハンドル付分別ペール70L,665007,07596377,70.0,,400.0,643.0,,https://www.monotaro.com/g/07326364/,series_grouping_dimensions_incomplete
+OUT-062,outdoor,1,カイスイマレン,ジャンボボトム LLP300,,,180.0,1400.0,550.0,950.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/kai-jumbobottom_llp300.html,confirmed_ratio
+OUT-063,outdoor,1,カイスイマレン,ジャンボボトム LLP300W,,,,1400.0,550.0,950.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/kai-jumbobottom_llp300w.html,confirmed_ratio
+OUT-064,outdoor,1,カイスイマレン,ジャンボボトムSLDM(窓無しタイプ、ポリプロピレン製内容器),SLDM120S(一般ゴミ用),61595864,60.0,520.0,420.0,930.0,,https://www.monotaro.com/g/06429764/,confirmed_ratio
+OUT-064,outdoor,2,カイスイマレン,ジャンボボトムSLDM(窓無しタイプ、ポリプロピレン製内容器),SLDM120K(空き缶・空きびん用),61595880,60.0,520.0,420.0,930.0,,https://www.monotaro.com/g/06429764/,confirmed_ratio
+OUT-064,outdoor,3,カイスイマレン,ジャンボボトムSLDM(窓無しタイプ、ポリプロピレン製内容器),SLDM120P(ペットボトル用),61595889,60.0,520.0,420.0,930.0,,https://www.monotaro.com/g/06429764/,confirmed_ratio
+OUT-065,outdoor,1,カイスイマレン,ジャンボボトムSLDN(窓無しタイプ、ポリプロピレン製内容器),SLDN120S(一般ゴミ用),61595925,60.0,520.0,420.0,965.0,,https://www.monotaro.com/g/06429762/,confirmed_ratio
+OUT-065,outdoor,2,カイスイマレン,ジャンボボトムSLDN(窓無しタイプ、ポリプロピレン製内容器),SLDN120K(空き缶・空きびん用),61595934,60.0,520.0,420.0,965.0,,https://www.monotaro.com/g/06429762/,confirmed_ratio
+OUT-065,outdoor,3,カイスイマレン,ジャンボボトムSLDN(窓無しタイプ、ポリプロピレン製内容器),SLDN120P(ペットボトル用),61595950,60.0,520.0,420.0,965.0,,https://www.monotaro.com/g/06429762/,confirmed_ratio
+OUT-066,outdoor,1,カイスイマレン,ジャンボボトムSLDS(窓付き、スチール内枠タイプ),,61595846,70.0,520.0,420.0,930.0,,https://www.monotaro.com/p/6159/5846/,confirmed_ratio
+OUT-067,outdoor,1,カイスイマレン,ジャンボボトムSLP100K(空かん・空びん用),,,60.0,595.0,445.0,1025.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/kai-jumbobottom_slp100k.html,confirmed_ratio
+OUT-067,outdoor,2,カイスイマレン,ジャンボボトムSLP150K(空かん・空びん用),,,95.0,700.0,524.0,1180.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/kai-jumbobottom_slp150k.html,confirmed_ratio
+OUT-068,outdoor,1,カイスイマレン,ジャンボボトムSLP100P(ペットボトル用),,,60.0,595.0,445.0,1025.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/kai-jumbobottom_slp100p.html,confirmed_ratio
+OUT-068,outdoor,2,カイスイマレン,ジャンボボトムSLP150P(ペットボトル用),,,95.0,700.0,524.0,1180.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/kai-jumbobottom_slp150p.html,confirmed_ratio
+OUT-069,outdoor,1,カイスイマレン,ジャンボボトムSLP100S(一般ゴミ用),,,60.0,595.0,445.0,1025.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/kai-jumbobottom_slp100s.html,confirmed_ratio
+OUT-069,outdoor,2,カイスイマレン,ジャンボボトムSLP150S(一般ゴミ用),,,95.0,700.0,524.0,1180.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/kai-jumbobottom_slp150s.html,confirmed_ratio
+OUT-070,outdoor,1,カイスイマレン,リサイクルダストボックス RDシリーズ,RD170(内容器:スチール、シール:食品トレー用),07701919,170.0,595.0,595.0,1220.0,,https://www.monotaro.com/g/06199127/,confirmed_ratio
+OUT-070,outdoor,2,カイスイマレン,リサイクルダストボックス RDシリーズ,RD170(内容器:スチール、シール:透明食品トレー用),07701928,170.0,595.0,595.0,1220.0,,https://www.monotaro.com/g/06199127/,confirmed_ratio
+OUT-070,outdoor,3,カイスイマレン,リサイクルダストボックス RDシリーズ,RD170(内容器:スチール、シール:アルミカン用),07701937,170.0,595.0,595.0,1220.0,,https://www.monotaro.com/g/06199127/,confirmed_ratio
+OUT-070,outdoor,4,カイスイマレン,リサイクルダストボックス RDシリーズ,RD170(内容器:スチール、シール:スチールカン用),07701946,170.0,595.0,595.0,1220.0,,https://www.monotaro.com/g/06199127/,confirmed_ratio
+OUT-070,outdoor,5,カイスイマレン,リサイクルダストボックス RDシリーズ,RD170(内容器:スチール、シール:ペットボトル用),07701955,170.0,595.0,595.0,1220.0,,https://www.monotaro.com/g/06199127/,confirmed_ratio
+OUT-070,outdoor,6,カイスイマレン,リサイクルダストボックス RDシリーズ,RD170(内容器:スチール、シール:牛乳パック用),07701971,170.0,595.0,595.0,1220.0,,https://www.monotaro.com/g/06199127/,confirmed_ratio
+OUT-070,outdoor,7,カイスイマレン,リサイクルダストボックスRD170(内容器：スチールタイプ),,,170.0,595.0,595.0,1220.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/kai-recycle_dustbox_rd170.html,confirmed_ratio
+OUT-071,outdoor,1,カイスイマレン,リサイクルダストボックス RDシリーズ,RD400(内容器:スチール、シール:食品トレー用),07701980,400.0,918.0,919.0,1243.0,,https://www.monotaro.com/g/06199127/,confirmed_ratio
+OUT-071,outdoor,2,カイスイマレン,リサイクルダストボックス RDシリーズ,RD400(内容器:スチール、シール:透明食品トレー用),07701989,400.0,918.0,919.0,1243.0,,https://www.monotaro.com/g/06199127/,confirmed_ratio
+OUT-071,outdoor,3,カイスイマレン,リサイクルダストボックス RDシリーズ,RD400(内容器:スチール、シール:アルミカン用),07701998,400.0,918.0,919.0,1243.0,,https://www.monotaro.com/g/06199127/,confirmed_ratio
+OUT-071,outdoor,4,カイスイマレン,リサイクルダストボックス RDシリーズ,RD400(内容器:スチール、シール:スチールカン用),07702007,400.0,918.0,919.0,1243.0,,https://www.monotaro.com/g/06199127/,confirmed_ratio
+OUT-071,outdoor,5,カイスイマレン,リサイクルダストボックス RDシリーズ,RD400(内容器:スチール、シール:ペットボトル用),07702016,400.0,918.0,919.0,1243.0,,https://www.monotaro.com/g/06199127/,confirmed_ratio
+OUT-071,outdoor,6,カイスイマレン,リサイクルダストボックス RDシリーズ,RD400(内容器:スチール、シール:牛乳パック用),07702025,400.0,918.0,919.0,1243.0,,https://www.monotaro.com/g/06199127/,confirmed_ratio
+OUT-071,outdoor,7,カイスイマレン,リサイクルダストボックス RDシリーズ,RD400P(内容器:ポリエチレン、シール:食品トレー用),07702041,400.0,918.0,919.0,1243.0,,https://www.monotaro.com/g/06199127/,confirmed_ratio
+OUT-071,outdoor,8,カイスイマレン,リサイクルダストボックス RDシリーズ,RD400P(内容器:ポリエチレン、シール:透明食品トレー用),07702050,400.0,918.0,919.0,1243.0,,https://www.monotaro.com/g/06199127/,confirmed_ratio
+OUT-071,outdoor,9,カイスイマレン,リサイクルダストボックス RDシリーズ,RD400P(内容器:ポリエチレン、シール:アルミカン用),07702059,400.0,918.0,919.0,1243.0,,https://www.monotaro.com/g/06199127/,confirmed_ratio
+OUT-071,outdoor,10,カイスイマレン,リサイクルダストボックス RDシリーズ,RD400P(内容器:ポリエチレン、シール:スチールカン用),07702068,400.0,918.0,919.0,1243.0,,https://www.monotaro.com/g/06199127/,confirmed_ratio
+OUT-071,outdoor,11,カイスイマレン,リサイクルダストボックス RDシリーズ,RD400P(内容器:ポリエチレン、シール:ペットボトル用),07702077,400.0,918.0,919.0,1243.0,,https://www.monotaro.com/g/06199127/,confirmed_ratio
+OUT-071,outdoor,12,カイスイマレン,リサイクルダストボックス RDシリーズ,RD400P(内容器:ポリエチレン、シール:牛乳パック用),07702086,400.0,918.0,919.0,1243.0,,https://www.monotaro.com/g/06199127/,confirmed_ratio
+OUT-071,outdoor,13,カイスイマレン,リサイクルダストボックスRD400(内容器：スチールタイプ),,,400.0,918.0,919.0,1243.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/kai-recycle_dustbox_rd400.html,confirmed_ratio
+OUT-071,outdoor,14,カイスイマレン,リサイクルダストボックスRD400P(内容器：ポリエチレンタイプ),,,400.0,918.0,919.0,1243.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/kai-recycle_dustbox_rd400p.html,confirmed_ratio
+OUT-072,outdoor,1,カイスイマレン,分別回収BOX ジャンボボトムSLPシリーズ,SLP100S(一般ごみ用),44653649,60.0,595.0,445.0,1025.0,,https://www.monotaro.com/g/06199130/,confirmed_ratio
+OUT-072,outdoor,2,カイスイマレン,分別回収BOX ジャンボボトムSLPシリーズ,SLP100K(空かん・空きびん用),44653658,60.0,595.0,445.0,1025.0,,https://www.monotaro.com/g/06199130/,confirmed_ratio
+OUT-072,outdoor,3,カイスイマレン,分別回収BOX ジャンボボトムSLPシリーズ,SLP100P(ペットボトル用),44653667,60.0,595.0,445.0,1025.0,,https://www.monotaro.com/g/06199130/,confirmed_ratio
+OUT-072,outdoor,4,カイスイマレン,分別回収BOX ジャンボボトムSLPシリーズ,SLP150S(一般ごみ用),44653676,95.0,700.0,524.0,1180.0,,https://www.monotaro.com/g/06199130/,confirmed_ratio
+OUT-072,outdoor,5,カイスイマレン,分別回収BOX ジャンボボトムSLPシリーズ,SLP150K(空かん・空きびん用),44653685,95.0,700.0,524.0,1180.0,,https://www.monotaro.com/g/06199130/,confirmed_ratio
+OUT-072,outdoor,6,カイスイマレン,分別回収BOX ジャンボボトムSLPシリーズ,SLP150P(ペットボトル用),44653694,95.0,700.0,524.0,1180.0,,https://www.monotaro.com/g/06199130/,confirmed_ratio
+OUT-073,outdoor,1,キャプテンスタッグ,モンテ ポップアップダストボックス,UM-1550,,,380,380,500,,https://www.captainstag.net/products/UM-1550.html,confirmed_ratio
+OUT-074,outdoor,1,サンコープラスチック,アネスト 丸ペール 45型本体 ブルー,,80238439,45.0,,,520.0,412.0,https://www.monotaro.com/g/08502372/,confirmed_ratio
+OUT-075,outdoor,1,サンコープラスチック,タフ角ペール 40型 本体 ブルー,,80238238,40.0,,,,,https://www.monotaro.com/g/08502367/,series_grouping_dimensions_incomplete
+OUT-076,outdoor,1,サンコープラスチック,ビスダボ ジョイント 27,,80238317,27.0,,,,,https://www.monotaro.com/g/08502405/,series_grouping_dimensions_incomplete
+OUT-076,outdoor,2,サンコープラスチック,ビスダボ ジョイント 27,,80238369,27.0,,,,,https://www.monotaro.com/g/08502405/,series_grouping_dimensions_incomplete
+OUT-076,outdoor,3,サンコープラスチック,ビスダボ ジョイント 27,,80238719,27.0,,,,,https://www.monotaro.com/g/08502405/,series_grouping_dimensions_incomplete
+OUT-077,outdoor,1,サンコープラスチック,ビスダボ ジョイント 45,,80238518,45.0,,,,,https://www.monotaro.com/g/08502407/,series_grouping_dimensions_incomplete
+OUT-077,outdoor,2,サンコープラスチック,ビスダボ ジョイント 45,,80238606,45.0,,,,,https://www.monotaro.com/g/08502407/,series_grouping_dimensions_incomplete
+OUT-077,outdoor,3,サンコープラスチック,ビスダボ ジョイント 45,,80238780,45.0,,,,,https://www.monotaro.com/g/08502407/,series_grouping_dimensions_incomplete
+OUT-078,outdoor,1,スノーピーク,ガビングスタンド,DB-030,,,500,360,630,,https://ec.snowpeak.co.jp/item/SNP0118A0034,confirmed_ratio
+OUT-079,outdoor,1,テラモト,Trim SL(ステン),,,47.0,360.0,435.0,900.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/tera-trim_sl_sten.html,confirmed_ratio
+OUT-080,outdoor,1,テラモト,TrimST ステン,DS-168-910-8,53902355,68.0,470.0,435.0,930.0,,https://www.monotaro.com/g/04586713/,confirmed_ratio
+OUT-080,outdoor,2,テラモト,TrimST ステン,DS-168-911-8,53902373,68.0,470.0,435.0,930.0,,https://www.monotaro.com/g/04586713/,confirmed_ratio
+OUT-080,outdoor,3,テラモト,TrimST ステン,DS-168-912-8,53902398,68.0,470.0,435.0,930.0,,https://www.monotaro.com/g/04586713/,confirmed_ratio
+OUT-080,outdoor,4,テラモト,TrimST ステン,DS-168-914-8,53902416,68.0,470.0,435.0,930.0,,https://www.monotaro.com/g/04586713/,confirmed_ratio
+OUT-080,outdoor,5,テラモト,TrimST ステン,DS-168-915-8,53902434,68.0,470.0,435.0,930.0,,https://www.monotaro.com/g/04586713/,confirmed_ratio
+OUT-080,outdoor,6,テラモト,Trim ST(ステン),,,68.0,470.0,435.0,900.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/tera-trim_st_sten.html,confirmed_ratio
+OUT-081,outdoor,1,テラモト,TrimST ステン,DS-168-916-8,53902459,68.0,470.0,435.0,930.0,,https://www.monotaro.com/g/04586713/,confirmed_ratio
+OUT-081,outdoor,2,テラモト,TrimST ステン,DS-168-917-8,53902477,68.0,470.0,435.0,930.0,,https://www.monotaro.com/g/04586713/,confirmed_ratio
+OUT-081,outdoor,3,テラモト,TrimST ステン,DS-168-918-8,53902495,68.0,470.0,435.0,930.0,,https://www.monotaro.com/g/04586713/,confirmed_ratio
+OUT-082,outdoor,1,テラモト,キャスターペール70 黒/灰,,88118983,70.0,388.0,575.0,824.0,,https://www.monotaro.com/p/8811/8983/,confirmed_ratio
+OUT-082,outdoor,2,テラモト,キャスターペール70,,,74.0,388.0,575.0,824.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/tera-caster_pail_70.html,confirmed_ratio
+OUT-083,outdoor,1,テラモト,キャスターペール90,,,90.0,468.0,575.0,824.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/tera-caster_pail_90.html,confirmed_ratio
+OUT-083,outdoor,2,テラモト,キャスターペール90 黒/灰,DS-224-190-8,88118992,90.0,468.0,575.0,824.0,,https://www.monotaro.com/g/00861152/,confirmed_ratio
+OUT-084,outdoor,1,テラモト,グランド 440角R32,DS-197-444-6,88115167,103.0,,,710.0,,https://www.monotaro.com/g/00860899/,series_grouping_dimensions_incomplete
+OUT-084,outdoor,2,テラモト,グランド 440角R32,DS-197-444-7,88115176,103.0,,,710.0,,https://www.monotaro.com/g/00860899/,series_grouping_dimensions_incomplete
+OUT-085,outdoor,1,テラモト,グランドコーナー470丸32,DS-196-447-6,06790217,78.0,,,650.0,380.0,https://www.monotaro.com/g/00110491/,confirmed_ratio
+OUT-085,outdoor,2,テラモト,グランドコーナー430丸32,DS-196-443-6,03345352,65.0,,,630.0,343.0,https://www.monotaro.com/g/00009615/,confirmed_ratio
+OUT-085,outdoor,3,テラモト,グランドコーナー430丸32,DS-196-443-7,03345361,65.0,,,630.0,343.0,https://www.monotaro.com/g/00009615/,confirmed_ratio
+OUT-086,outdoor,1,テラモト,グランドコーナー木調,,,44.0,,,,,https://www.twin-stars.co.jp/new-shop/item/dustbox/tera-grandconer_mokucho.html,series_grouping_dimensions_incomplete
+OUT-087,outdoor,1,テラモト,ステンレス製グランドコーナー丸型,DS-199-343-0,37137082,65.0,,,,,https://www.monotaro.com/g/00344467/,series_grouping_dimensions_incomplete
+OUT-087,outdoor,2,テラモト,ステンレス製グランドコーナー丸型,DS-199-347-0,37137125,78.0,,,,,https://www.monotaro.com/g/00344467/,series_grouping_dimensions_incomplete
+OUT-087,outdoor,3,テラモト,グランドコーナー430 丸ステン14,,,65.0,,,,,https://www.twin-stars.co.jp/new-shop/item/dustbox/tera-grandconer_430_maru_sten14.html,series_grouping_dimensions_incomplete
+OUT-087,outdoor,4,テラモト,グランドコーナー470 丸ステン14,,,78.0,,,,,https://www.twin-stars.co.jp/new-shop/item/dustbox/tera-grandconer_470_maru_sten14.html,series_grouping_dimensions_incomplete
+OUT-088,outdoor,1,テラモト,ステンレス製グランドコーナー角型,DS-198-135-0,37137064,47.0,,,565.0,,https://www.monotaro.com/p/3713/7064/,series_grouping_dimensions_incomplete
+OUT-088,outdoor,2,テラモト,ステンレス製グランドコーナー角型,DS-198-144-0,37137107,103.0,,,710.0,,https://www.monotaro.com/p/3713/7107/,series_grouping_dimensions_incomplete
+OUT-088,outdoor,3,テラモト,グランドコーナー350 角Rステン14,,,47.0,,,,,https://www.twin-stars.co.jp/new-shop/item/dustbox/tera-grandconer_350_kaku_r_sten14.html,series_grouping_dimensions_incomplete
+OUT-088,outdoor,4,テラモト,グランドコーナー440 角Rステン14,,,103.0,,,,,https://www.twin-stars.co.jp/new-shop/item/dustbox/tera-grandconer_440_kaku_r_sten14.html,series_grouping_dimensions_incomplete
+OUT-089,outdoor,1,テラモト,ニートLG あきかん用,DS-166-916-7,53901759,90.0,630.0,460.0,997.0,,https://www.monotaro.com/g/04586699/,confirmed_ratio
+OUT-089,outdoor,2,テラモト,ニートLG プラスチック用,DS-166-915-7,53901743,90.0,630.0,460.0,997.0,,https://www.monotaro.com/g/04586698/,confirmed_ratio
+OUT-089,outdoor,3,テラモト,ニートLG もえないゴミ用,DS-166-912-7,53901725,90.0,630.0,460.0,997.0,,https://www.monotaro.com/g/04586696/,confirmed_ratio
+OUT-089,outdoor,4,テラモト,ニートLG,,,90.0,630.0,460.0,997.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/tera-neat_lg.html,confirmed_ratio
+OUT-090,outdoor,1,テラモト,ニートLG 一般ゴミ用,DS-166-910-7,53901707,90.0,630.0,460.0,997.0,,https://www.monotaro.com/g/04586694/,confirmed_ratio
+OUT-091,outdoor,1,テラモト,ニートSL かん・びん用,DS-166-118-7,53900709,47.5,350.0,460.0,947.0,,https://www.monotaro.com/g/04586644/,confirmed_ratio
+OUT-091,outdoor,2,テラモト,ニートSL かん・びん用,DS-166-118-8,53900718,47.5,350.0,460.0,947.0,,https://www.monotaro.com/g/04586644/,confirmed_ratio
+OUT-092,outdoor,1,テラモト,ニートSL 一般ゴミ用,DS-166-110-7,53900569,47.5,350.0,460.0,947.0,,https://www.monotaro.com/g/04586637/,confirmed_ratio
+OUT-092,outdoor,2,テラモト,ニートSL 一般ゴミ用,DS-166-110-8,53900578,47.5,350.0,460.0,947.0,,https://www.monotaro.com/g/04586637/,confirmed_ratio
+OUT-092,outdoor,3,テラモト,ニートSL もえるゴミ用,DS-166-111-7,53900587,47.5,350.0,460.0,947.0,,https://www.monotaro.com/g/04586638/,confirmed_ratio
+OUT-092,outdoor,4,テラモト,ニートSL もえるゴミ用,DS-166-111-8,53900596,47.5,350.0,460.0,947.0,,https://www.monotaro.com/g/04586638/,confirmed_ratio
+OUT-092,outdoor,5,テラモト,ニートSL ペットボトル用,DS-166-114-7,53900623,47.5,350.0,460.0,947.0,,https://www.monotaro.com/g/04586640/,confirmed_ratio
+OUT-092,outdoor,6,テラモト,ニートSL ペットボトル用,DS-166-114-8,53900639,47.5,350.0,460.0,947.0,,https://www.monotaro.com/g/04586640/,confirmed_ratio
+OUT-092,outdoor,7,テラモト,分別ゴミ箱 ニートSL,,,47.5,350.0,460.0,947.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/tera-neat_sl.html,confirmed_ratio
+OUT-093,outdoor,1,テラモト,ニートSL(フラップ付),,,47.5,350.0,460.0,947.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/tera-neat_sl_flap.html,confirmed_ratio
+OUT-094,outdoor,1,テラモト,ニートST 2分別,,,52.0,460.0,460.0,947.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/tera-neat_st_2bunbetu.html,confirmed_ratio
+OUT-095,outdoor,1,テラモト,ニートST あきかん用,DS-166-016-7,53900508,67.0,460.0,460.0,947.0,,https://www.monotaro.com/g/04586634/,confirmed_ratio
+OUT-095,outdoor,2,テラモト,ニートST あきかん用,DS-166-016-8,53900517,67.0,460.0,460.0,947.0,,https://www.monotaro.com/g/04586634/,confirmed_ratio
+OUT-095,outdoor,3,テラモト,ニートST かん・びん用,DS-166-018-7,53900544,67.0,460.0,460.0,947.0,,https://www.monotaro.com/g/04586636/,confirmed_ratio
+OUT-095,outdoor,4,テラモト,ニートST かん・びん用,DS-166-018-8,53900553,67.0,460.0,460.0,947.0,,https://www.monotaro.com/g/04586636/,confirmed_ratio
+OUT-096,outdoor,1,テラモト,ニートST もえるゴミ用,DS-166-011-8,53900438,67.0,460.0,460.0,947.0,,https://www.monotaro.com/p/5390/0438/,confirmed_ratio
+OUT-096,outdoor,2,テラモト,ニートST ペットボトル用,DS-166-014-7,53900465,67.0,460.0,460.0,947.0,,https://www.monotaro.com/g/04586632/,confirmed_ratio
+OUT-096,outdoor,3,テラモト,ニートST ペットボトル用,DS-166-014-8,53900474,67.0,460.0,460.0,947.0,,https://www.monotaro.com/g/04586632/,confirmed_ratio
+OUT-096,outdoor,4,テラモト,ニートST もえないゴミ用,DS-166-012-7,53900447,67.0,460.0,460.0,947.0,,https://www.monotaro.com/g/04586631/,confirmed_ratio
+OUT-096,outdoor,5,テラモト,ニートST もえないゴミ用,DS-166-012-8,53900456,67.0,460.0,460.0,947.0,,https://www.monotaro.com/g/04586631/,confirmed_ratio
+OUT-096,outdoor,6,テラモト,分別ゴミ箱 ニートST,,,67.0,460.0,460.0,947.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/tera-neat_st.html,confirmed_ratio
+OUT-097,outdoor,1,テラモト,ニートST(フラップ付),,,67.0,460.0,460.0,947.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/tera-neat_st_flap.html,confirmed_ratio
+OUT-098,outdoor,1,テラモト,分別グランドコーナー430丸32,DS-195-211-6,88115246,65.0,,,825.0,452.0,https://www.monotaro.com/g/00860905/,confirmed_ratio
+OUT-098,outdoor,2,テラモト,分別グランドコーナー430丸32,DS-195-212-6,88115255,65.0,,,825.0,452.0,https://www.monotaro.com/g/00860905/,confirmed_ratio
+OUT-098,outdoor,3,テラモト,分別グランドコーナー430 丸32,DS-195-213-6,62962218,65.0,,,825.0,452.0,https://www.monotaro.com/g/04956319/,confirmed_ratio
+OUT-099,outdoor,1,テラモト,分別グランドコーナー430丸32,DS-195-221-6,88115264,65.0,,,825.0,452.0,https://www.monotaro.com/g/00860905/,confirmed_ratio
+OUT-099,outdoor,2,テラモト,分別グランドコーナー430丸32,DS-195-222-6,88115273,65.0,,,825.0,452.0,https://www.monotaro.com/g/00860905/,confirmed_ratio
+OUT-100,outdoor,1,テラモト,分別グランドコーナー440角R32,DS-195-311-6,88115282,103.0,453.0,455.0,905.0,,https://www.monotaro.com/g/00860906/,confirmed_ratio
+OUT-100,outdoor,2,テラモト,分別グランドコーナー440角R32,DS-195-312-6,88115291,103.0,453.0,455.0,905.0,,https://www.monotaro.com/g/00860906/,confirmed_ratio
+OUT-100,outdoor,3,テラモト,分別グランドコーナー440 角R32,DS-195-313-6,62962227,103.0,453.0,455.0,905.0,,https://www.monotaro.com/g/04956320/,confirmed_ratio
+OUT-101,outdoor,1,テラモト,分別グランドコーナー440角R32,DS-195-321-6,88115307,103.0,453.0,455.0,905.0,,https://www.monotaro.com/g/00860906/,confirmed_ratio
+OUT-101,outdoor,2,テラモト,分別グランドコーナー440角R32,DS-195-322-6,88115316,103.0,453.0,455.0,905.0,,https://www.monotaro.com/g/00860906/,confirmed_ratio
+OUT-102,outdoor,1,トラウター,オレゴニアンキャンパー キャンパーバケットR Oregonian Camper バケツ ごみ箱 バスケット キャンプ 園芸 バーベキュー トラッシュボックス,,,32.0,,,260.0,,https://www.monotaro.com/g/07353603/,series_grouping_dimensions_incomplete
+OUT-103,outdoor,1,トラウター,オレゴニアンキャンパー タイニーキャンプバケット Oregonian Camper バケツ ごみ箱 バスケット キャンプ 園芸 バーベキュー トラッシュボックス,OCB2034RT,08178025,12.0,,,200.0,,https://www.monotaro.com/g/07353606/,series_grouping_dimensions_incomplete
+OUT-103,outdoor,2,トラウター,オレゴニアンキャンパー タイニーキャンプバケット Oregonian Camper バケツ ごみ箱 バスケット キャンプ 園芸 バーベキュー トラッシュボックス,OCB2034BC,08178007,12.0,,,200.0,,https://www.monotaro.com/g/07353606/,series_grouping_dimensions_incomplete
+OUT-103,outdoor,3,トラウター,オレゴニアンキャンパー タイニーキャンプバケット Oregonian Camper バケツ ごみ箱 バスケット キャンプ 園芸 バーベキュー トラッシュボックス,OCB2034WB,08178016,12.0,,,200.0,,https://www.monotaro.com/g/07353606/,series_grouping_dimensions_incomplete
+OUT-104,outdoor,1,トラウター,オレゴニアンキャンパー テントイントラッシュボックス Oregonian Camper ごみ箱 バケツ バスケット キャンプ 園芸 バーベキュー トラッシュボックス,OCB2024CM,08177928,19.0,,,270.0,,https://www.monotaro.com/g/07353604/,series_grouping_dimensions_incomplete
+OUT-104,outdoor,2,トラウター,オレゴニアンキャンパー テントイントラッシュボックス Oregonian Camper ごみ箱 バケツ バスケット キャンプ 園芸 バーベキュー トラッシュボックス,OCB2024SG,08177937,19.0,,,270.0,,https://www.monotaro.com/g/07353604/,series_grouping_dimensions_incomplete
+OUT-104,outdoor,3,トラウター,オレゴニアンキャンパー テントイントラッシュボックス Oregonian Camper ごみ箱 バケツ バスケット キャンプ 園芸 バーベキュー トラッシュボックス,OCB2024BC,08177910,19.0,,,270.0,,https://www.monotaro.com/g/07353604/,series_grouping_dimensions_incomplete
+OUT-104,outdoor,4,トラウター,オレゴニアンキャンパー テントイントラッシュボックス Oregonian Camper ごみ箱 バケツ バスケット キャンプ 園芸 バーベキュー トラッシュボックス,OCB2024WB,08177919,19.0,,,270.0,,https://www.monotaro.com/g/07353604/,series_grouping_dimensions_incomplete
+OUT-105,outdoor,1,トラウター,オレゴニアンキャンパー ポップアップトラッシュボックスR2 Oregonian Camper ごみ箱 バケツ バスケット キャンプ 園芸 バーベキュー トラッシュボックス,OCB2026CM,08177946,55.0,,,450.0,,https://www.monotaro.com/g/07353605/,series_grouping_dimensions_incomplete
+OUT-105,outdoor,2,トラウター,オレゴニアンキャンパー ポップアップトラッシュボックスR2 Oregonian Camper ごみ箱 バケツ バスケット キャンプ 園芸 バーベキュー トラッシュボックス,OCB2026CY,08177955,55.0,,,450.0,,https://www.monotaro.com/g/07353605/,series_grouping_dimensions_incomplete
+OUT-105,outdoor,3,トラウター,オレゴニアンキャンパー ポップアップトラッシュボックスR2 Oregonian Camper ごみ箱 バケツ バスケット キャンプ 園芸 バーベキュー トラッシュボックス,OCB2026BC,08177971,55.0,,,450.0,,https://www.monotaro.com/g/07353605/,series_grouping_dimensions_incomplete
+OUT-105,outdoor,4,トラウター,オレゴニアンキャンパー ポップアップトラッシュボックスR2 Oregonian Camper ごみ箱 バケツ バスケット キャンプ 園芸 バーベキュー トラッシュボックス,OCB2026SG,08177980,55.0,,,450.0,,https://www.monotaro.com/g/07353605/,series_grouping_dimensions_incomplete
+OUT-106,outdoor,1,ベストコ,Boite×e-LABO つなげて分別ペール,,63545547,45.0,,,,,https://www.monotaro.com/p/6354/5547/,series_grouping_dimensions_incomplete
+OUT-107,outdoor,1,ミヅシマ工業,Bunbetuダストハウス#40,,,60.0,540.0,380.0,890.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/mid-bunbetu_dusthouse_40.html,confirmed_ratio
+OUT-108,outdoor,1,ミヅシマ工業,Bunbetuダストハウス#45S,,,55.0,405.0,400.0,1000.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/mid-bunbetu_dusthouse_45s.html,confirmed_ratio
+OUT-109,outdoor,1,ミヅシマ工業,Bunbetuダストハウス#55,,,60.0,540.0,360.0,940.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/mid-bunbetu_dusthouse_55.html,confirmed_ratio
+OUT-110,outdoor,1,ミヅシマ工業,Bunbetuダストハウス#70S,,,75.0,524.0,400.0,1000.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/mid-bunbetu_dusthouse_70s.html,confirmed_ratio
+OUT-111,outdoor,1,ミヅシマ工業,クリンボックスRW,,,43.0,513.0,380.0,620.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/mid-clinbox_rw.html,confirmed_ratio
+OUT-112,outdoor,1,ミヅシマ工業,クリンボックスRW-P,,,43.0,513.0,374.0,620.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/mid-clinbox_rw_p.html,confirmed_ratio
+OUT-113,outdoor,1,ミヅシマ工業,ショーウィンドウダストハウス スロープアングル,,,70,550,481,902,,https://www.mizushima21.co.jp/catalog/dboxjg1/dboxjg1c.htm,confirmed_ratio
+OUT-114,outdoor,1,ミヅシマ工業,ショーウィンドウダストハウス トライアングル,,,70,550,481,902,,https://www.mizushima21.co.jp/catalog/dboxjg1/dboxjg1c.htm,confirmed_ratio
+OUT-115,outdoor,1,ミヅシマ工業,ショーウィンドウダストハウス ライトアングル,,,70,550,481,952,,https://www.mizushima21.co.jp/catalog/dboxjg1/dboxjg1c.htm,confirmed_ratio
+OUT-116,outdoor,1,ミヅシマ工業,センターパック #200 小,202-010,06788312,68.0,440.0,440.0,640.0,,https://www.monotaro.com/g/01037075/,confirmed_ratio
+OUT-116,outdoor,2,ミヅシマ工業,センターパック #200 大,202-011,06788328,135.0,510.0,510.0,750.0,,https://www.monotaro.com/g/01037076/,confirmed_ratio
+OUT-117,outdoor,1,ミヅシマ工業,ダストハウス#55,,,60.0,540.0,360.0,940.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/mid-dusthouse_55.html,confirmed_ratio
+OUT-118,outdoor,1,ミヅシマ工業,ダストハウスLE,,,70.0,550.0,481.0,902.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/mid-dusthouse_le.html,confirmed_ratio
+OUT-119,outdoor,1,ミヅシマ工業,分別センターパック小 #C空カン緑,2100030,06789396,65.0,450.0,450.0,620.0,,https://www.monotaro.com/g/01037183/,confirmed_ratio
+OUT-119,outdoor,2,ミヅシマ工業,分別センターパック小 #Bもえないゴミ青,2100020,06789387,65.0,450.0,450.0,620.0,,https://www.monotaro.com/g/01037182/,confirmed_ratio
+OUT-119,outdoor,3,ミヅシマ工業,分別センターパック大 #C空カン緑,2100130,06789432,98.0,500.0,500.0,740.0,,https://www.monotaro.com/g/01037187/,confirmed_ratio
+OUT-119,outdoor,4,ミヅシマ工業,分別センターパック大 #D空ビン柿,2100140,06789448,98.0,500.0,500.0,740.0,,https://www.monotaro.com/g/01037188/,confirmed_ratio
+OUT-119,outdoor,5,ミヅシマ工業,分別センターパック大 #Bもえないゴミ青,,,98,500,500,740,,https://www.monotaro.com/g/01037186/,confirmed_ratio
+OUT-119,outdoor,6,ミヅシマ工業,分別センターパック大 #Aもえるゴミ赤,2100110,06789414,98.0,500.0,500.0,740.0,,https://www.monotaro.com/g/01037185/,confirmed_ratio
+OUT-119,outdoor,7,ミヅシマ工業,分別センターパック小 #D空ビン柿,2100040,06789405,65.0,450.0,450.0,620.0,,https://www.monotaro.com/g/01037184/,confirmed_ratio
+OUT-119,outdoor,8,ミヅシマ工業,分別センターパック小 #Aもえるゴミ赤,2100010,06789378,65.0,450.0,450.0,620.0,,https://www.monotaro.com/g/01037181/,confirmed_ratio
+OUT-119,outdoor,9,ミヅシマ工業,センターパック #100 小 ホワイト,202-001,06788294,65.0,450.0,450.0,620.0,,https://www.monotaro.com/g/01037073/,confirmed_ratio
+OUT-119,outdoor,10,ミヅシマ工業,センターパック #100 大 ホワイト,202-004,06788303,98.0,500.0,500.0,740.0,,https://www.monotaro.com/g/01037074/,confirmed_ratio
+OUT-119,outdoor,11,ミヅシマ工業,センターパック #500 大,202-015,06788346,98.0,500.0,500.0,740.0,,https://www.monotaro.com/g/01037078/,confirmed_ratio
+OUT-120,outdoor,1,ミヅシマ工業,分別ダストハウス #40 #A・もえるゴミ,210-270,06789658,,,,,,https://www.monotaro.com/g/01037209/,series_grouping_dimensions_incomplete
+OUT-121,outdoor,1,ミヅシマ工業,分別ダストハウス #40 #C・空カン,210-272,06789676,,,,,,https://www.monotaro.com/g/01037211/,series_grouping_dimensions_incomplete
+OUT-122,outdoor,1,ミヅシマ工業,分別ダストハウス #45 #J・ペットボトル,210-037-5,06789825,,,,,,https://www.monotaro.com/g/01037226/,series_grouping_dimensions_incomplete
+OUT-123,outdoor,1,ミヅシマ工業,分別ダストハウス #45 #M・新聞・雑誌,210-037-8,06789852,,,,,,https://www.monotaro.com/g/01037229/,series_grouping_dimensions_incomplete
+OUT-124,outdoor,1,ユニット,くず入れ,375-20A,31594703,153.0,850.0,600.0,850.0,,https://www.monotaro.com/g/04155288/,confirmed_ratio
+OUT-125,outdoor,1,ユニフレーム,UFダストスタンド4,611739,,,520,350,550,,https://item.rakuten.co.jp/wins-shop/uni-611739/,confirmed_ratio
+OUT-126,outdoor,1,ラバーメイド,VENTED BRUTE 丸型コンテナ 44ガロン(166.5 L) フタ無し,FG264360GRAY,49615204,166.5,610.0,610.0,,,https://www.monotaro.com/g/02383305/,series_grouping_dimensions_incomplete
+OUT-126,outdoor,2,ラバーメイド,VENTED BRUTE 丸型コンテナ 44ガロン(166.5 L) フタ無し,FG264360RED,49615213,166.5,610.0,610.0,,,https://www.monotaro.com/g/02383305/,series_grouping_dimensions_incomplete
+OUT-126,outdoor,3,ラバーメイド,VENTED BRUTE 丸型コンテナ 44ガロン(166.5 L) フタ無し,FG264360BLUE,49615222,166.5,610.0,610.0,,,https://www.monotaro.com/g/02383305/,series_grouping_dimensions_incomplete
+OUT-126,outdoor,4,ラバーメイド,VENTED BRUTE 丸型コンテナ 44ガロン(166.5 L) フタ無し,FG264360YEL,49615238,166.5,610.0,610.0,,,https://www.monotaro.com/g/02383305/,series_grouping_dimensions_incomplete
+OUT-126,outdoor,5,ラバーメイド,VENTED BRUTE 丸型コンテナ 44ガロン(166.5 L) フタ無し,FG264360BLA,49615247,166.5,610.0,610.0,,,https://www.monotaro.com/g/02383305/,series_grouping_dimensions_incomplete
+OUT-127,outdoor,1,ラバーメイド,アンタッチャブルハーフラウンドコンテナ,352075,60777605,79.5,,,,,https://www.monotaro.com/g/02773707/,series_grouping_dimensions_incomplete
+OUT-127,outdoor,2,ラバーメイド,アンタッチャブルハーフラウンドコンテナ,352002,60777614,79.5,,,,,https://www.monotaro.com/g/02773707/,series_grouping_dimensions_incomplete
+OUT-128,outdoor,1,ラバーメイド,プラザコンテナ,,,189.3,635,635,1067,,https://www.erecta.co.jp/products/sanitary_maintenance/trash_can/PLAZA-CONTAINER,confirmed_ratio
+OUT-129,outdoor,1,ラバーメイド,マーシャルコンテナ ブラック,81608807,60778113,56.8,,,,,https://www.monotaro.com/g/02773735/,series_grouping_dimensions_incomplete
+OUT-129,outdoor,2,ラバーメイド,マーシャルコンテナ オフホワイト,81608801,60778095,56.8,,,,,https://www.monotaro.com/g/02773734/,series_grouping_dimensions_incomplete
+OUT-129,outdoor,3,ラバーメイド,マーシャルコンテナ オフホワイト,81708801,60778104,94.6,,,,,https://www.monotaro.com/g/02773734/,series_grouping_dimensions_incomplete
+OUT-130,outdoor,1,ラバーメイド,メタリックシリーズ,RM1100EBK,89743018,13.3,254.0,254.0,686.0,,https://www.monotaro.com/g/03485858/,confirmed_ratio
+OUT-130,outdoor,2,ラバーメイド,メタリックシリーズ,RM1100SSS,89743027,13.3,254.0,254.0,686.0,,https://www.monotaro.com/g/03485858/,confirmed_ratio
+OUT-131,outdoor,1,リス,GK丸型ペール 本体,‐,14697419,25.0,,,,,https://www.monotaro.com/p/1469/7419/,series_grouping_dimensions_incomplete
+OUT-132,outdoor,1,リス,HOME&HOME 片手で開く連結ダストボックス70J,GBBE146,31127759,70.0,381.0,507.0,665.0,,https://www.monotaro.com/p/3112/7759/,confirmed_ratio
+OUT-133,outdoor,1,リス,キャスターペール C2,,,45,348,546,656,,https://www.risu-shop.jp/c/dustbox/dustbox_07/10000018,confirmed_ratio
+OUT-134,outdoor,1,リス,キャスターペール C2,,,70,388,575,824,,https://www.risu-shop.jp/c/casterpail/16574-3,confirmed_ratio
+OUT-135,outdoor,1,リス,キャスターペール C2,,,90,468,575,824,,https://www.risu-shop.jp/c/casterpail/16236-0,confirmed_ratio
+OUT-136,outdoor,1,リス,バケットカーゴ 22L,GHON258,56735887,22.0,338.0,330.0,417.0,,https://www.monotaro.com/g/07801875/,confirmed_ratio
+OUT-136,outdoor,2,リス,バケットカーゴ 22L,GHON259,56735896,22.0,338.0,330.0,417.0,,https://www.monotaro.com/g/07801875/,confirmed_ratio
+OUT-136,outdoor,3,リス,バケットカーゴ 22L,GHON260,56735905,22.0,338.0,330.0,417.0,,https://www.monotaro.com/g/07801875/,confirmed_ratio
+OUT-137,outdoor,1,山崎産業,ウェイストペール GMT-120,,,120.0,482.0,552.0,933.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/yama-weist_pale_gmt_120.html,confirmed_ratio
+OUT-138,outdoor,1,山崎産業,ウェイストペール GMT-240,,,240.0,580.0,730.0,1067.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/yama-weist_pale_gmt_240.html,confirmed_ratio
+OUT-139,outdoor,1,山崎産業,スカイダスト分別L-1(もえるゴミ),,,90.0,535.0,495.0,1145.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/yama-skydust_bunbetu_l_1.html,confirmed_ratio
+OUT-140,outdoor,1,山崎産業,スカイダスト分別L-2(ビン・カン),,,90.0,535.0,495.0,1145.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/yama-skydust_bunbetu_l_2.html,confirmed_ratio
+OUT-141,outdoor,1,山崎産業,スカイダスト分別S-1(もえるゴミ),,,60.0,500.0,450.0,955.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/yama-skydust_bunbetu_s_1.html,confirmed_ratio
+OUT-142,outdoor,1,山崎産業,スカイダスト分別S-2(ビン・カン),,,60.0,500.0,450.0,955.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/yama-skydust_bunbetu_s_2.html,confirmed_ratio
+OUT-143,outdoor,1,山崎産業,ハイスカイダスト分別K S-1(もえるゴミ),,,45.0,570.0,430.0,950.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/yama-highskydust_bunbetu_k_s_1.html,confirmed_ratio
+OUT-144,outdoor,1,山崎産業,ハイスカイダスト分別K S-2(ビン・カン),,,45.0,570.0,430.0,950.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/yama-highskydust_bunbetu_k_s_2.html,confirmed_ratio
+OUT-145,outdoor,1,山崎産業,パークくずいれ100,YD-62C-IJ,89803664,110.0,,,740.0,,https://www.monotaro.com/g/01009091/,series_grouping_dimensions_incomplete
+OUT-146,outdoor,1,山崎産業,パークくずいれ80,YD-26C-IJ,81373217,80.0,,,635.0,470.0,https://www.monotaro.com/g/06974584/,confirmed_ratio
+OUT-147,outdoor,1,山崎産業,パークくず入れ80Sマルエス(スチール),YD-69C-IJ-W,02349112,63.0,420.0,420.0,635.0,,https://www.monotaro.com/g/00032300/,confirmed_ratio
+OUT-148,outdoor,1,山崎産業,パークくず入れ80マルエス角型(スチール),YD-68L-IJ,02349103,103.0,460.0,460.0,680.0,,https://www.monotaro.com/g/00032299/,confirmed_ratio
+OUT-149,outdoor,1,山崎産業,パークワイヤーネット(折りたたみ式),YD-67L-IJ,02349094,80.0,400.0,400.0,630.0,,https://www.monotaro.com/g/00110498/,confirmed_ratio
+OUT-150,outdoor,1,山崎産業,リサイクルボックス アークライン,YW-142L-PC,89805511,,550.0,510.0,1110.0,,https://www.monotaro.com/g/01009203/,confirmed_ratio
+OUT-150,outdoor,2,山崎産業,リサイクルボックス アークライン,YW-140L-PC,89805493,,550.0,510.0,1110.0,,https://www.monotaro.com/g/01009203/,confirmed_ratio
+OUT-151,outdoor,1,山崎産業,リサイクルボックス アークライン L-1(もえるゴミ用),,,90.0,550.0,510.0,1110.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/yama-recycle_box_arkline_l1.html,confirmed_ratio
+OUT-152,outdoor,1,山崎産業,リサイクルボックス アークライン L-2(ビン・カン用),YW-141L-PC,89805502,,550.0,510.0,1110.0,,https://www.monotaro.com/g/01009203/,confirmed_ratio
+OUT-152,outdoor,2,山崎産業,リサイクルボックス アークライン L-2(ビン・カン用),,,90.0,550.0,510.0,1110.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/yama-recycle_box_arkline_l2.html,confirmed_ratio
+OUT-153,outdoor,1,山崎産業,リサイクルボックス アークライン L-3(ペットボトル用),,,90.0,550.0,510.0,1110.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/yama-recycle_box_arkline_l3.html,confirmed_ratio
+OUT-154,outdoor,1,山崎産業,リサイクルボックスF F-1,,,60.0,500.0,420.0,906.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/yama-recycle_box_f_1.html,confirmed_ratio
+OUT-155,outdoor,1,山崎産業,リサイクルボックスF F-2,,,50.0,500.0,420.0,906.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/yama-recycle_box_f_2.html,confirmed_ratio
+OUT-156,outdoor,1,山崎産業,リサイクルボックスMT L1,,,60.0,500.0,420.0,870.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/yama-recycle_box_mt_l1.html,confirmed_ratio
+OUT-157,outdoor,1,山崎産業,リサイクルボックスMT L2,YW-158L-SB,37140731,60.0,500.0,420.0,870.0,,https://www.monotaro.com/p/3714/0731/,confirmed_ratio
+OUT-157,outdoor,2,山崎産業,リサイクルボックスMT L2,,,60.0,500.0,420.0,870.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/yama-recycle_box_mt_l2.html,confirmed_ratio
+OUT-158,outdoor,1,山崎産業,リサイクルボックスMT L9 (単体2分別),,,,500.0,420.0,870.0,,https://www.twin-stars.co.jp/new-shop/item/dustbox/yama-recycle_box_mt_l9.html,confirmed_ratio
+OUT-159,outdoor,1,山崎産業,リサイクルボックスNTO-50,,61597018,50.0,340.0,490.0,870.0,,https://www.monotaro.com/p/6159/7018/,confirmed_ratio
+OUT-160,outdoor,1,山崎産業,リサイクルボックスNTO-90,YW-521L-ID,61597307,90.0,440.0,520.0,970.0,,https://www.monotaro.com/g/06429831/,confirmed_ratio
+OUT-160,outdoor,2,山崎産業,リサイクルボックスNTO-90,YW-523L-ID,61597325,90.0,440.0,520.0,970.0,,https://www.monotaro.com/g/06429831/,confirmed_ratio
+OUT-161,outdoor,1,山崎産業,リサイクルボックスNTO-90,YW-522L-ID,61597316,90.0,440.0,520.0,970.0,,https://www.monotaro.com/g/06429831/,confirmed_ratio
+OUT-161,outdoor,2,山崎産業,リサイクルボックスNTO-90,YW-524L-ID,61597334,90.0,440.0,520.0,970.0,,https://www.monotaro.com/g/06429831/,confirmed_ratio
+OUT-162,outdoor,1,山崎産業,リサイクルボックスNTOS-50,YW-525L-ID,61597149,70.0,340.0,490.0,870.0,,https://www.monotaro.com/g/06429826/,series_grouping_dimensions_incomplete
+OUT-162,outdoor,2,山崎産業,リサイクルボックスNTOS-50,YW-527L-ID,61597167,70.0,340.0,490.0,870.0,,https://www.monotaro.com/g/06429826/,series_grouping_dimensions_incomplete
+OUT-162,outdoor,3,山崎産業,リサイクルボックスNTOS-50(視認性),,,70.0,,,,,https://www.twin-stars.co.jp/new-shop/item/dustbox/yama-recycle_box_ntos_50.html,series_grouping_dimensions_incomplete
+OUT-163,outdoor,1,山崎産業,リサイクルボックスNTOS-50,YW-526L-ID,61597158,70.0,340.0,490.0,870.0,,https://www.monotaro.com/g/06429826/,confirmed_ratio
+OUT-163,outdoor,2,山崎産業,リサイクルボックスNTOS-50,YW-528L-ID,61597176,70.0,340.0,490.0,870.0,,https://www.monotaro.com/g/06429826/,confirmed_ratio
+OUT-164,outdoor,1,山崎産業,リサイクルボックスNTOS-90,YW-529L-ID,61597465,120.0,440.0,520.0,970.0,,https://www.monotaro.com/g/06429835/,series_grouping_dimensions_incomplete
+OUT-164,outdoor,2,山崎産業,リサイクルボックスNTOS-90,YW-531L-ID,61597490,120.0,440.0,520.0,970.0,,https://www.monotaro.com/g/06429835/,series_grouping_dimensions_incomplete
+OUT-164,outdoor,3,山崎産業,リサイクルボックスNTOS-90(視認性),,,120.0,,,,,https://www.twin-stars.co.jp/new-shop/item/dustbox/yama-recycle_box_ntos_90.html,series_grouping_dimensions_incomplete
+OUT-165,outdoor,1,山崎産業,リサイクルボックスNTOS-90,YW-530L-ID,61597474,120.0,440.0,520.0,970.0,,https://www.monotaro.com/g/06429835/,confirmed_ratio
+OUT-165,outdoor,2,山崎産業,リサイクルボックスNTOS-90,YW-532L-ID,61597499,120.0,440.0,520.0,970.0,,https://www.monotaro.com/g/06429835/,confirmed_ratio
+OUT-166,outdoor,1,山崎産業,リサイクルボックスNYO-50,YW-549L-ID,61597027,50.0,530.0,300.0,870.0,,https://www.monotaro.com/g/06429825/,confirmed_ratio
+OUT-166,outdoor,2,山崎産業,リサイクルボックスNYO-50,YW-551L-ID,61597045,50.0,530.0,300.0,870.0,,https://www.monotaro.com/g/06429825/,confirmed_ratio
+OUT-167,outdoor,1,山崎産業,リサイクルボックスNYO-50,YW-550L-ID,61597036,50.0,530.0,300.0,870.0,,https://www.monotaro.com/g/06429825/,confirmed_ratio
+OUT-167,outdoor,2,山崎産業,リサイクルボックスNYO-50,YW-552L-ID,61597054,50.0,530.0,300.0,870.0,,https://www.monotaro.com/g/06429825/,confirmed_ratio
+OUT-168,outdoor,1,山崎産業,リサイクルボックスNYO-90,YW-553L-ID,61597350,90.0,560.0,400.0,970.0,,https://www.monotaro.com/g/06429830/,confirmed_ratio
+OUT-168,outdoor,2,山崎産業,リサイクルボックスNYO-90,YW-555L-ID,61597368,90.0,560.0,400.0,970.0,,https://www.monotaro.com/g/06429830/,confirmed_ratio
+OUT-169,outdoor,1,山崎産業,リサイクルボックスNYO-90,YW-554L-ID,61597359,90.0,560.0,400.0,970.0,,https://www.monotaro.com/g/06429830/,confirmed_ratio
+OUT-169,outdoor,2,山崎産業,リサイクルボックスNYO-90,YW-556L-ID,61597377,90.0,560.0,400.0,970.0,,https://www.monotaro.com/g/06429830/,confirmed_ratio
+OUT-170,outdoor,1,山崎産業,リサイクルボックスNYOS-50,YW-557L-ID,61597185,70.0,530.0,300.0,870.0,,https://www.monotaro.com/g/06429820/,series_grouping_dimensions_incomplete
+OUT-170,outdoor,2,山崎産業,リサイクルボックスNYOS-50,YW-559L-ID,61597210,70.0,530.0,300.0,870.0,,https://www.monotaro.com/g/06429820/,series_grouping_dimensions_incomplete
+OUT-170,outdoor,3,山崎産業,リサイクルボックスNYOS-50(視認性),,,70.0,,,,,https://www.twin-stars.co.jp/new-shop/item/dustbox/yama-recycle_box_nyos_50.html,series_grouping_dimensions_incomplete
+OUT-171,outdoor,1,山崎産業,リサイクルボックスNYOS-50,YW-558L-ID,61597194,70.0,530.0,300.0,870.0,,https://www.monotaro.com/g/06429820/,confirmed_ratio
+OUT-171,outdoor,2,山崎産業,リサイクルボックスNYOS-50,YW-560L-ID,61597219,70.0,530.0,300.0,870.0,,https://www.monotaro.com/g/06429820/,confirmed_ratio
+OUT-172,outdoor,1,山崎産業,リサイクルボックスNYOS-90,YW-561L-ID,61597508,120.0,560.0,400.0,970.0,,https://www.monotaro.com/g/06429833/,series_grouping_dimensions_incomplete
+OUT-172,outdoor,2,山崎産業,リサイクルボックスNYOS-90,YW-563L-ID,61597526,120.0,560.0,400.0,970.0,,https://www.monotaro.com/g/06429833/,series_grouping_dimensions_incomplete
+OUT-172,outdoor,3,山崎産業,リサイクルボックスNYOS-90(視認性),,,120.0,,,,,https://www.twin-stars.co.jp/new-shop/item/dustbox/yama-recycle_box_nyos_90.html,series_grouping_dimensions_incomplete
+OUT-173,outdoor,1,山崎産業,リサイクルボックスNYOS-90,YW-562L-ID,61597517,120.0,560.0,400.0,970.0,,https://www.monotaro.com/g/06429833/,confirmed_ratio
+OUT-173,outdoor,2,山崎産業,リサイクルボックスNYOS-90,YW-564L-ID,61597535,120.0,560.0,400.0,970.0,,https://www.monotaro.com/g/06429833/,confirmed_ratio
+OUT-174,outdoor,1,山崎産業,折りたたみ式回収ボックスECO,YW-110L-PC-BL,09936858,340.0,700.0,700.0,700.0,,https://www.monotaro.com/p/0993/6858/,confirmed_ratio
+OUT-174,outdoor,2,山崎産業,折りたたみ式回収ボックスECO,YW-110L-PC-G,09936867,340.0,700.0,700.0,700.0,,https://www.monotaro.com/p/0993/6867/,confirmed_ratio
+OUT-174,outdoor,3,山崎産業,折りたたみ式回収ボックスECO,YW-112L-PC-G,09936885,725.0,900.0,900.0,900.0,,https://www.monotaro.com/p/0993/6885/,confirmed_ratio
+OUT-175,outdoor,1,岐阜プラスチック工業(RISU/リス),ベルク 角型ペール グレー,,29514855,29.0,255.0,305.0,560.0,,https://www.monotaro.com/p/2951/4855/,confirmed_ratio
+OUT-176,outdoor,1,岐阜プラスチック工業(RISU/リス),ベルク 角型ペール グレー,,29514880,47.0,300.0,415.0,560.0,,https://www.monotaro.com/p/2951/4880/,confirmed_ratio
+OUT-177,outdoor,1,岐阜プラスチック工業(RISU/リス),ベルク 角型ペール グレー,,29514916,99.0,420.0,570.0,630.0,,https://www.monotaro.com/p/2951/4916/,confirmed_ratio
+OUT-178,outdoor,1,平和工業,万能容器,,19668471,30.0,,,,,https://www.monotaro.com/g/07731717/,series_grouping_dimensions_incomplete
+OUT-178,outdoor,2,平和工業,万能容器45L,,69411259,45.0,487.0,487.0,348.0,,https://www.monotaro.com/g/08007604/,series_grouping_dimensions_incomplete
+OUT-179,outdoor,1,新輝合成,連結ハンドルペール,02059,25007345,96.0,,,620.0,,https://www.monotaro.com/g/06104842/,series_grouping_dimensions_incomplete
+OUT-179,outdoor,2,新輝合成,連結ハンドルペール,02060,25007354,96.0,,,620.0,,https://www.monotaro.com/g/06104842/,series_grouping_dimensions_incomplete
+OUT-179,outdoor,3,新輝合成,連結ハンドルペール,02061,25007370,76.0,,,620.0,,https://www.monotaro.com/g/06104842/,series_grouping_dimensions_incomplete
+OUT-179,outdoor,4,新輝合成,連結ハンドルペール,02062,25007379,76.0,,,620.0,,https://www.monotaro.com/g/06104842/,series_grouping_dimensions_incomplete
+OUT-179,outdoor,5,新輝合成,連結ハンドルペール,02063,25007388,48.0,,,605.0,,https://www.monotaro.com/g/06104842/,series_grouping_dimensions_incomplete
+OUT-179,outdoor,6,新輝合成,連結ハンドルペール,02064,25007397,48.0,,,605.0,,https://www.monotaro.com/g/06104842/,series_grouping_dimensions_incomplete
+OUT-179,outdoor,7,新輝合成,ゴミ箱 連結ハンドルペール45,86747,20244589,48.0,335.0,415.0,605.0,,https://www.monotaro.com/g/07745251/,series_grouping_dimensions_incomplete
+OUT-179,outdoor,8,新輝合成,ゴミ箱 連結ハンドルペール45,86748,20244598,48.0,335.0,415.0,605.0,,https://www.monotaro.com/g/07745251/,series_grouping_dimensions_incomplete
+OUT-180,outdoor,1,新輝合成,ゴミ箱 連結ハンドルペール70,86745,20244571,76.0,490.0,415.0,620.0,,https://www.monotaro.com/g/07745253/,confirmed_ratio
+OUT-180,outdoor,2,新輝合成,ゴミ箱 連結ハンドルペール70,86746,20244580,76.0,490.0,415.0,620.0,,https://www.monotaro.com/g/07745253/,confirmed_ratio
+OUT-181,outdoor,1,新輝合成,ゴミ箱 連結ハンドルペール90型,02147,79867807,96.0,540.0,465.0,620.0,,https://www.monotaro.com/g/08496735/,confirmed_ratio
+OUT-182,outdoor,1,新輝合成,ニューセレクトペールT-120 本体,871,26716192,120.0,,,645.0,,https://www.monotaro.com/g/01591808/,series_grouping_dimensions_incomplete
+OUT-182,outdoor,2,新輝合成,ニューセレクトペールT-120 本体,,65451139,120.0,,,645.0,,https://www.monotaro.com/g/01591808/,series_grouping_dimensions_incomplete
+OUT-183,outdoor,1,日本緑十字社,グランドコーナーボックス,DS-197-444(白),89885555,103.0,,,,,https://www.monotaro.com/g/01012446/,series_grouping_dimensions_incomplete
+OUT-183,outdoor,2,日本緑十字社,グランドコーナーボックス,DS-197-444(黒),89885582,103.0,,,,,https://www.monotaro.com/g/01012446/,series_grouping_dimensions_incomplete
+OUT-184,outdoor,1,東谷,ペールカン60L,,,60.0,360.0,554.0,622.0,,https://www.monotaro.com/g/06194099/,confirmed_ratio

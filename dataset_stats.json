@@ -1,0 +1,14 @@
+{
+  "indoor": {
+    "products": 200,
+    "capacity_15_20": 55,
+    "opening_shape_known": 29,
+    "opening_dimensions_known": 10
+  },
+  "outdoor": {
+    "products": 184,
+    "capacity_15_20": 4,
+    "opening_shape_known": 36,
+    "opening_dimensions_known": 20
+  }
+}

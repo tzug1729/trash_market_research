@@ -1,0 +1,117 @@
+{
+  "version": "2026-10-21",
+  "indoor_products": 200,
+  "outdoor_products": 184,
+  "files": [
+    {
+      "path": "indoor_market.xlsx",
+      "bytes": 215448,
+      "sha256": "4660ecd5b03acb73b27fe6788bba6fea0ef7cb044399d58810a1973ef1bbbba7"
+    },
+    {
+      "path": "outdoor_market.xlsx",
+      "bytes": 210941,
+      "sha256": "5bb39b558ad2ae13cf3d3584d9411cfaa1e0895bdcf0a1f1c5214a172302e902"
+    },
+    {
+      "path": "indoor_products.csv",
+      "bytes": 146835,
+      "sha256": "15ad25675893c825644a5383b8c4e3d6c31c7cfbf82bfbfb27f5f07fc17e13e7"
+    },
+    {
+      "path": "outdoor_products.csv",
+      "bytes": 169117,
+      "sha256": "8935d7098b62b24a5722b8f516182c93a5a74ef2e2b9d94848c50bde0341e9ed"
+    },
+    {
+      "path": "field_dictionary.csv",
+      "bytes": 14626,
+      "sha256": "03d24c3363881866ec236e26fd3168bc6297fc1f44b5de2ac56c81eab0616000"
+    },
+    {
+      "path": "schema.json",
+      "bytes": 21825,
+      "sha256": "3689ea252611574de5582f36ef2abd89af81cb12020c263f533c0eec56e30323"
+    },
+    {
+      "path": "missing_reasons.csv",
+      "bytes": 1626015,
+      "sha256": "fbd71e29424a47d73e99f9f561daf809d307b21453c98e6027844c317deac4d6"
+    },
+    {
+      "path": "indoor_missing_reasons.csv",
+      "bytes": 772455,
+      "sha256": "04ae0f447094377dcca232718595c7f4ba7cc828036e1e22519012faef424b17"
+    },
+    {
+      "path": "outdoor_missing_reasons.csv",
+      "bytes": 853630,
+      "sha256": "0a5053c10ce6ce4b11faee21dc8596976c1b9248bc9d49aac2b4805bcde6ee06"
+    },
+    {
+      "path": "grouping_audit.csv",
+      "bytes": 138487,
+      "sha256": "1913cf77f46663afbe514e719f00c577dfd28550ecfb67fb458caf05785f6cc7"
+    },
+    {
+      "path": "coverage.csv",
+      "bytes": 4797,
+      "sha256": "96bb3cd8a86a4c37ca5fbac61a18192edc67623c23d2ac0590efa93bd845a05f"
+    },
+    {
+      "path": "summary_counts.csv",
+      "bytes": 3418,
+      "sha256": "9fbd5df43300b0574f0c0dc8db928352ad572e768487c4b9cdf1553300673fd3"
+    },
+    {
+      "path": "screening_exclusions.csv",
+      "bytes": 11248,
+      "sha256": "beac1fba42029859ee09b190958818577ed3096efe3fefe027a912c793f1941d"
+    },
+    {
+      "path": "dataset_stats.json",
+      "bytes": 279,
+      "sha256": "b607a5509c143126745546b3c49de8ed9e609e8168c21005f979b03415772331"
+    },
+    {
+      "path": "validation_report.json",
+      "bytes": 567,
+      "sha256": "1600e4418588f1930a998cec06ca0fa4b820128cec1f4ab4d1d064649f706a55"
+    },
+    {
+      "path": "README_ja.md",
+      "bytes": 7084,
+      "sha256": "b9b90f37373eecd839a488ffff365e4d5a367cadb82dda67d29f040f607f40e3"
+    },
+    {
+      "path": "analyze_market.py",
+      "bytes": 5961,
+      "sha256": "40eac3b5fa135a83b6d4bea0bc47e0b90fad990328db78b9c2c634041e8ee949"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 27,
+      "sha256": "f8209b6f654857ab84378bbcfcb30c3a3b42a55d5634d357d409dc33535ff9f4"
+    },
+    {
+      "path": "analysis_output/category_counts.csv",
+      "bytes": 2196,
+      "sha256": "39f7ad0b35a822f5ea8dba71fc827c510869bf804c9664de4d5f68d24264f497"
+    },
+    {
+      "path": "analysis_output/missingness.csv",
+      "bytes": 4062,
+      "sha256": "bb0d99bde90b95f778bf2900fe0b3ba979276a4dfd144e591e242e3528924a9f"
+    },
+    {
+      "path": "analysis_output/numeric_description.csv",
+      "bytes": 944,
+      "sha256": "a63fd8bf2cfefdf9177d08a8fc779ae22b7c5368d2ec5e63591eff58468cf8f9"
+    },
+    {
+      "path": "analysis_output/opening_dimensions_confirmed.csv",
+      "bytes": 28589,
+      "sha256": "3e9bd7c4ae131522e2d1f354f28f8364d364835bfcd795a4c614a24f0b232877"
+    }
+  ]
+}
